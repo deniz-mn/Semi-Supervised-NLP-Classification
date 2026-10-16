@@ -1,0 +1,401 @@
+question_id,question_stem,choices,answerKey,subject_area,difficulty,reasoning
+7-889,Mountains exist on a planet next to,"A: Saturn
+B: Mars
+C: Neptune
+D: Uranus",B,astronomy,2,Requires knowing that Mars is a terrestrial planet with a solid surface.
+10-1219,Depressions in building materials that fill with frozen water will,"A: decompose
+B: collapse
+C: contract
+D: expand",D,earth_science,2,The question tests the direct fact that water expands when it freezes.
+12-221,The arctic can be considered what?,"A: desolate
+B: A magical place
+C: A city
+D: A watermelon",A,earth_science,1,The question requires basic descriptive knowledge of the Arctic region.
+12-916,Which is likely to cause changing weather in a specific location?,"A: delogging
+B: human campers
+C: rabbit mating
+D: pet hamsters",A,earth_science,2,Deforestation (delogging) is the only option that significantly impacts local weather patterns.
+13-789,If you were looking for a cold blooded animal a donkey would be,"A: a stuffed animal
+B: the wrong animal
+C: the right animal
+D: a fictional animal",B,biology,3,Requires knowing that donkeys are warm-blooded mammals and applying that fact to the search criteria.
+7-190,A good example of increased demand may equal increased production is,"A: soldiers eat beans, so beans are planted when there is war
+B: dogs eat kibble, so stores sell it
+C: cats eat mice, so mice are afraid of cats
+D: people have babies, so baby clothes are made",A,other,3,Requires applying the economic concept of demand and production to identify the correct scenario.
+10-400,audible vibrations can travel freely through,"A: a brick
+B: nitrogen and oxygen
+C: the ground
+D: a mountain",B,physics,2,The question tests the basic knowledge that sound waves propagate through air.
+12-725,Which of the following would be seen outside of the ocean?,"A: a seahorse
+B: an angler fish
+C: a frog
+D: a shark",C,biology,1,It requires basic knowledge of common animal habitats.
+792,Using a metal kitchen tool on a cheese can create,"A: milk
+B: blue cheese
+C: melted cheese
+D: small pieces",D,physics,1,It requires a basic observation of a physical change.
+8-87,If you viewed an eclipse from the moon,"A: You would transport to another dimension
+B: It would change time
+C: You would be thrown off the moon
+D: it would go in reverse",D,astronomy,1,"The distractors are nonsensical, making the answer trivial by elimination."
+1388,You can see further from which of these locations on the moon?,"A: mountains
+B: crater
+C: buildings
+D: surface",A,astronomy,3,Higher elevation increases the distance to the horizon.
+14-42,Which likely would be a reason a deer leaves its habitat?,"A: a light rain makes its habitat unlivable
+B: it wants to see the ocean
+C: dry brush has accumulated and a camper left a lit cigar
+D: the temperature is slightly colder than it was the day before",C,biology,3,Requires identifying a plausible environmental threat and eliminating illogical options.
+11-472,"As dry soil becomes more and more broken up, it will always contain more","A: water
+B: calcium
+C: oxygen
+D: rocks",C,earth_science,2,"Breaking up soil increases pore space, allowing more air and oxygen to enter."
+10-634,Shrews are hunted by,"A: horses
+B: butterflies
+C: deer
+D: raptors",D,biology,2,Requires identifying the predator of a shrew from a list of animals.
+13-915,A mother births what?,"A: light
+B: elements
+C: younglings
+D: nothing",C,biology,1,"The question asks for a basic, common-knowledge fact about reproduction."
+14-850,Which is most helpful to a constipated Elephant?,"A: cheese
+B: bubblegum
+C: oats
+D: empty promises",C,biology,2,Requires the direct fact that fiber-rich foods like oats help relieve constipation.
+10-150,Deposition is caused by what?,"A: venus wind
+B: forceful gales
+C: airplanes
+D: eroding mentalities",B,earth_science,2,The question asks for the agent responsible for the geological process of deposition.
+12-711,"in order for a person's burger to make it successfully into the toilet, which of these must be functional?","A: the respiratory system
+B: the digestive system
+C: the circulatory system
+D: the destructive system",B,biology,2,The question asks for the biological system responsible for processing food and eliminating waste.
+12-117,An example of camouflage could be,"A: Baking a cake for a birthday
+B: A sting ray covering itself in sand
+C: Cleaning make up off my face
+D: Going naked outside on a rainy day",B,biology,2,The question requires identifying a basic example of camouflage from a list of options.
+8-366,One of Kangaroo's unusual features are,"A: They have horns
+B: They speak English
+C: They can fly
+D: webbed feet",D,biology,1,It asks for a basic physical characteristic of a common animal.
+14-824,The greater of number of inhabited buildings in a space,"A: the brighter the stars
+B: the fewer visible stars
+C: the more boring the stars
+D: the more stars in the sky",B,astronomy,3,Requires linking urban development to light pollution and its effect on star visibility.
+14-1381,Feeling is when a living thing senses through what?,"A: sight
+B: smell
+C: contact
+D: taste",C,biology,1,It requires basic recall of the five senses.
+8-385,"Generally, electricity cannot flow through","A: incomplete conductive paths
+B: complete conductive paths
+C: closed circuits
+D: low-resistant electrons",A,physics,2,It requires the direct knowledge that electricity needs a complete path to flow.
+7-293,Sandbars are a part of most seas because there are,"A: waves which adjust silt
+B: lots of stones in seas
+C: places where fish eat
+D: sand that needs to be piled",A,earth_science,2,It requires knowing the basic geological process of sandbar formation by wave action.
+70,The easiest thing to break is,"A: a notebook
+B: a pair of glasses
+C: a wall
+D: a hardcover book",B,physics,1,The question relies on basic common knowledge of material fragility.
+14-977,What helps creates new material in the soil?,"A: network television
+B: magnetism
+C: wildfires
+D: free radicals",C,earth_science,2,Wildfires contribute ash and organic matter to the soil.
+13-127,"You shiver when your body temperature drops, which happens when it is","A: Pants
+B: Chilly
+C: Hot
+D: Funny",B,biology,1,Shivering in response to cold is a common everyday experience.
+14-845,Which is more likely to be able to develop?,"A: an egg under water
+B: an egg near a light bulb
+C: an egg in the arctic
+D: an egg in a freezer",B,biology,3,Requires knowing that eggs need warmth to develop and identifying the light bulb as the only heat source.
+10-998,What does a frog eat?,"A: plantlife
+B: bug microphones
+C: mayflies
+D: minerals",C,biology,1,It requires basic knowledge of a common animal's diet.
+13-949,Which of these could be separated with a sifter,"A: a cup of coffee
+B: a bowl of melted ice cream
+C: a bottle of water
+D: a bowl of cereal",D,chemistry,3,Requires knowing the function of a sifter and applying it to identify the heterogeneous mixture.
+11-202,A person who forgot to bring water with them will likely die of dehydration,"A: on a lake
+B: in a river
+C: in a house
+D: on earth's satellite",D,astronomy,4,Requires identifying the Moon as Earth's satellite and knowing it lacks accessible liquid water.
+11-244,A person wanting to use the daylight to power objects would consider adding to their home a few,"A: absorbing converters
+B: convertible socks
+C: metal eaves
+D: play streets",A,physics,2,The question requires identifying a device that converts sunlight into electrical power.
+13-1022,Which is a producer?,"A: cloudy mornings
+B: vinyl
+C: team Alicia
+D: strawberries",D,biology,2,Identifying a plant as a producer is a direct factual recall.
+7-455,If an animal is able to reproduce then,"A: that animal has matured
+B: that animal was impregnated
+C: that animal was in heat
+D: that animal was interested",A,biology,2,The question tests the basic biological concept of sexual maturity.
+12-371,"During photosynthesis, plants produce sugar that may help with their what?","A: Babies
+B: Love Handles
+C: Belly
+D: sustenance",D,biology,2,The question asks for the basic purpose of the sugar produced during photosynthesis.
+13-835,"When observing animals in the wild, which of these are you most likely to see?","A: A frog stalking a rabbit
+B: A bear sticking its claws in the river
+C: A wolf hunting an eagle
+D: A tiger hunting a dolphin",B,biology,2,Requires identifying a common animal behavior from a list of unlikely scenarios.
+10-756,"To replenish the shade in a city that had been provided by trees that were felled by a storm, you must","A: grow gills and live on a raft
+B: use a large lawn mower
+C: introduce replacement timber producers
+D: get out your weed whacker",C,biology,3,Requires identifying that 'timber producers' refers to trees to solve the problem.
+12-145,Which of these items contains a fat soluble vitamin?,"A: dog
+B: yogurt
+C: cat
+D: water",B,biology,3,Requires knowing which vitamins are fat-soluble and identifying a food source that contains them.
+11-673,Seals which return to where they were born display reproductive behavior by using that space to,"A: hunt squirrel
+B: retrieve eggs
+C: birth young
+D: kill birds",C,biology,2,The question asks for a direct fact regarding seal reproductive behavior.
+13-1053,"a couple sits on a meadow enjoying a nice picnic, when something runs by with a terrible smell. what could it be?","A: a raccoon wandering the meadows
+B: a person with a great cologne
+C: a little skunk going about its business
+D: a scarecrow come to life",C,biology,1,Identifying a skunk by its smell is common general knowledge.
+10-2,What should I do to remain healthy,"A: Never move from my chair
+B: Never talk to anyone
+C: Eat burgers almost everyday
+D: Make sure to get some shut lids",D,biology,1,The question asks for basic common knowledge regarding healthy habits.
+12-704,Which can be used to create a prism?,"A: dried dung
+B: pine martens
+C: teak
+D: jello",D,physics,3,Requires knowing that a prism must be transparent and identifying jello as the only transparent option.
+11-134,Which is the most accurate statement?,"A: Brittney can receive minerals by standing in the sunlight
+B: Ted can receive calories by standing in sunlight
+C: Jeff can receive protein from sunlight
+D: Kelly can receive vitamins by soaking up sunny rays",D,biology,2,The question tests the basic knowledge that sunlight enables the synthesis of Vitamin D in the skin.
+14-1326,reproduction is when an organism passes genetic information from itself to its what?,"A: feet
+B: child support
+C: brain
+D: younglings",D,biology,1,The question asks for a basic definition of reproduction with trivial distractors.
+13-204,You can experiment with seeing evaporation by using,"A: magic
+B: uncovered mason jars
+C: nothing
+D: time travel",B,chemistry,1,The correct answer is obvious because the distractors are absurd.
+10-721,Due to weathering,"A: large submarines are built
+B: new bikes are raced
+C: holes in the pathway
+D: 2nd story houses are built",C,earth_science,2,The question asks for a basic example of the effects of weathering.
+9-401,organic life requires certain things to grow such as,"A: nutritional values
+B: zinc
+C: acid
+D: darkness",A,biology,1,"The question asks for a basic requirement for life, which is common knowledge."
+10-519,A hermit crab may find good protection from elements in,"A: a mountain lion
+B: a sky color
+C: a stone configuration
+D: a mouse carcass",C,biology,2,Requires basic knowledge of animal shelter and elimination of illogical options.
+10-597,A metal sticker remains on a fridge because of,"A: vibrations in the surface of the fridge door
+B: a force that pulls two objects together
+C: magic that Juggaloes are unable to explain
+D: the entropy of the universe",B,physics,1,The question asks for a basic everyday observation about magnetism.
+11-200,"A girl wants to enjoy some fresh strawberries. She checks the patch in the garden where strawberries grow, but still a ways away from being ready, because they are still","A: bees
+B: buds
+C: dirt
+D: trees",B,biology,1,It requires basic knowledge of plant growth stages.
+13-139,Lighting a candle causes that candle to what?,"A: cool
+B: freeze
+C: regenerate
+D: scorch",D,chemistry,1,It requires basic everyday knowledge that lighting a candle involves combustion and heat.
+12-257,If a stone is broken down into sand it is,"A: glass
+B: mechanically weathered
+C: garden compost
+D: grits",B,earth_science,2,The question asks for the direct definition of mechanical weathering.
+8-269,which of these would most likely cause a car to lose control?,"A: a nice dry asphalt highway
+B: a highway after cloud precipitation
+C: a dry cobble stone road
+D: all of these",B,physics,2,"Wet roads reduce the friction between tires and the surface, increasing the likelihood of losing control."
+8-383,"I have a shirt that is now too small, what can I do to conserve and reuse the fabric?","A: Walk a runway with it
+B: Use it to protect my body from bullets
+C: Make a new wallet
+D: Track the weather with it",C,earth_science,1,The question requires basic common sense to identify a practical way to reuse fabric.
+12-602,adobe works as an electrical,"A: paper weight
+B: pie filler
+C: chiller
+D: anti-conductor",D,physics,2,It requires knowing that adobe is an electrical insulator.
+13-547,An hunter that wants to be undetected seeking out deer in the forest might,"A: be dressed bushy green and brown attire
+B: cover themselves in tree sap
+C: be dressed in arctic camouflage
+D: change their facial expression",A,biology,2,The question tests the basic concept of camouflage in a forest environment.
+10-356,A toad would have better hiding places,"A: on a house rooftop
+B: in a glass bottle
+C: on a forest floor
+D: with a parachute skydiving",C,biology,1,Requires basic knowledge of a toad's natural habitat.
+8-178,"The Earth spins around and around, and in order to finish one cycle of this spinning","A: two days must pass
+B: a week must go by
+C: the Earth must slow down
+D: a seventh of a week must pass",D,earth_science,3,Requires knowing the Earth's rotation period and calculating its fraction of a week.
+14-1100,sugar dissolves in what when they are combined?,"A: dirt
+B: ocean liquid
+C: honey
+D: air",B,chemistry,1,It requires basic knowledge that sugar dissolves in water.
+7-890,"A bird makes its home in various places, such as","A: groves of plants
+B: waterways
+C: city streets
+D: public parks",A,biology,1,Requires basic knowledge of common bird habitats.
+11-440,What would be passed down from parents to their children?,"A: hobbies enjoyed
+B: head size
+C: number of friends
+D: sports played",B,biology,2,The question requires identifying a genetically inherited trait versus acquired characteristics.
+12-1059,Which of the following would be considered the most windy,"A: a light drizzle
+B: a light breeze
+C: a powerful front
+D: a tremendous hurricane",D,earth_science,1,Requires basic knowledge of weather terms to identify the strongest wind condition.
+9-81,Lamps that convert electricity into light and heat are known as,"A: incadescent
+B: flourescent
+C: led
+D: candle",A,physics,2,It requires identifying the specific type of lamp based on its energy conversion properties.
+14-350,Which is true?,"A: hot coffee will stay hot forever
+B: hot coffee is cold
+C: hot coffee can injure due to its temperature
+D: hot coffee prevents getting hot enough to burn",C,physics,1,The question requires basic common-sense knowledge about heat and safety.
+14-644,"A bad spot in town, as far as nature and the health of Earth is concerned, will be","A: heaped refuse
+B: piled compost
+C: pollinated flowers
+D: watered gardens",A,earth_science,1,Identifying that refuse is harmful to the environment is basic everyday knowledge.
+12-379,"If peas and carrots are planted alternately,","A: fields are useless
+B: dirt is refreshed
+C: sand is dried
+D: water is poisoned",B,biology,3,Requires knowledge of nitrogen fixation by legumes to understand soil enrichment.
+10-1153,An amoeba is a unique individual that,"A: makes friends
+B: has multiple uses
+C: works together
+D: exists solitary",D,biology,2,It requires the direct fact that an amoeba is a single-celled organism.
+10-1205,A ball is tossed to a person who misses it and is unable to catch it so,"A: it groans
+B: it falls
+C: it runs
+D: it floats",B,physics,1,It requires basic everyday knowledge of gravity.
+12-1127,You can bake cookies with the sun using,"A: melting ice
+B: aluminium foil
+C: blocks of ice
+D: soft cheese",B,physics,2,It requires knowing that aluminium foil reflects sunlight to concentrate heat.
+7-1082,The way that squirrels put away food during the cool season ensures that they,"A: survive
+B: eat
+C: live
+D: grow",A,biology,1,It tests basic knowledge of animal survival strategies.
+183,Which set of animals don't compete for food?,"A: dolphin and fish
+B: hyena and bear
+C: whale and cat
+D: eagle and raven",C,biology,3,Requires knowing the diets of the animals and applying the concept of competition.
+1102,An example of conservation is avoiding,"A: oil
+B: sunlight
+C: fats
+D: tea",A,earth_science,2,Identifying oil as a non-renewable resource requiring conservation is a direct fact.
+9-13,"When any two object strike with each other, the molecules of the outer of the two objects coming in contact could","A: rot
+B: quake
+C: smoke
+D: freeze",B,physics,2,The question asks for the basic physical reaction of molecules during a collision.
+753,Why do  berries exist?,"A: reproducing
+B: food for animals
+C: growth
+D: food storage",A,biology,2,Berries are fruits evolved to facilitate seed dispersal for plant reproduction.
+8-474,"A boy is lost in a heavily forested area, and the only help he has is a small compass. He knows that his house is to the south of him, but in the direction he is facing, the arrow on the compass is showing that he is currently walking due north. Therefore, the boy","A: turns right
+B: turns left
+C: turns around
+D: keeps straight",C,earth_science,3,The boy must reverse his direction to travel south instead of north.
+12-859,A girl with a burn scar on her arm was most likely,"A: in a swimming pool
+B: in a safe space
+C: near a running kiln
+D: protected from any injury",C,biology,2,The student must identify that a kiln is a heat source capable of causing a burn.
+9-1131,Air is considered to be a vehicle for..?,"A: Light
+B: Wind
+C: Speed
+D: Sound",D,physics,2,It requires the direct knowledge that sound waves need a medium to travel.
+10-366,the moon rising occurs,"A: once in a decade
+B: 4 times a year
+C: 7 times a week
+D: 1 time a month",C,astronomy,1,"The moon rises daily, which is a basic observation."
+7-145,If someone is experiencing frequent falls,"A: they should move out of their house
+B: they should just stop trying to walk
+C: they should try wearing slicker bottomed shoes
+D: they should try putting down carpet or throw rugs",D,biology,2,The question tests basic knowledge of health and safety precautions to prevent falls.
+11-151,Which of the following would be considered a predator?,"A: grizzly bear
+B: moose
+C: salmon
+D: lobster",A,biology,1,Requires basic knowledge of animal diets.
+11-75,"A storm ravages a town for a week straight, complete with deluges of rain. If someone in that town needs a source of water, it is","A: everywhere
+B: missing
+C: in short supply
+D: rare",A,earth_science,1,Heavy rain logically results in an abundance of water.
+9-1107,storms can do what to seeds via high altitudes,"A: disperse them
+B: plant them
+C: destroy them
+D: drown them",A,biology,2,The question asks for a basic fact regarding seed dispersal by wind.
+12-1177,"if a person travels on foot from home to school, which of these is given off?","A: a release of vitamins
+B: a release of water vapor
+C: a blaze of fire
+D: a release of heat",D,biology,2,Physical activity generates heat as a byproduct of metabolic processes.
+12-345,An animal that often lives in holes in the ground in fields has,"A: long curly hair
+B: round ears
+C: four wings
+D: rainbow stripes",B,biology,1,The question requires basic recall of common animal characteristics.
+14-997,"as the number of pollinators attracted to a flower increases , the ability  to reproduce will increase for what?","A: whales
+B: oceans
+C: flora
+D: animals",C,biology,2,"Pollinators facilitate the reproduction of plants, which are referred to as flora."
+196,What does a squirrel not eat?,"A: plants
+B: seeds
+C: fruits
+D: animals",D,biology,2,Requires basic knowledge of a squirrel's diet.
+7-245,"When broken down, what happens to an object's shape and mass","A: it turns to water
+B: it shall be broken
+C: it is then altered
+D: it stays the same",C,physics,2,The question asks about the effect of physical breakdown on an object's properties.
+10-599,"Large eared, small mammal preferred by bald eagles as prey","A: hare
+B: dog
+C: hawk
+D: bear",A,biology,2,The question requires identifying a specific animal based on its physical characteristics and diet.
+14-1028,Amoebas have zero options and must preform,"A: zero duties
+B: most duties
+C: all responsibilities
+D: some duties",C,biology,1,The question is a simple completion task regarding a biological organism.
+12-830,Which is least likely to happen?,"A: a human goes from teenager to adult
+B: a human goes from child to preteen
+C: a human goes from teenager to child
+D: a human goes from infant to toddler",C,biology,1,It requires basic knowledge of the human life cycle.
+1875,Which would be the result of the breeding of two wolves?,"A: kittens
+B: wolf pups
+C: fox pups
+D: dog pups",B,biology,1,It is a basic fact that wolves produce wolf pups.
+13-767,Some animals change their appearance completely during a stage of the life cycle known as,"A: metamorphosing
+B: metal
+C: Seven
+D: drawing",A,biology,2,The question asks for a basic biological term with trivial distractors.
+12-1001,deserts are known for having what type of climates?,"A: scorching
+B: comfortable
+C: average temps
+D: lush",A,earth_science,1,"The question asks for a basic, commonly known characteristic of deserts."
+13-231,Sedans being powered by _______ is an example of an alternative fuel source,"A: maize
+B: refuse
+C: bees
+D: soda cans",A,earth_science,2,Requires identifying a common alternative fuel source from the given options.
+13-386,Where would algae be safe from predators but likely die?,"A: a lake
+B: a delta
+C: the ocean
+D: the desert",D,biology,3,Requires knowing that algae need water to survive and that their predators are found in aquatic environments.
+14-734,Absorbing sunlight causes objects to what?,"A: cool
+B: chill
+C: freeze
+D: blaze up",D,physics,1,It is a basic observation that objects warm up when exposed to sunlight.
+12-851,"If a deer eats a berry plant, the plant eats","A: a berry juice slurry
+B: large slices of meat
+C: its self created nutriment
+D: small bugs that glow",C,biology,2,The question tests the basic biological fact that plants produce their own food through photosynthesis.
+867,Where is December warmest?,"A: Nebraska
+B: Canada
+C: Papua New Guinea
+D: Israel",C,earth_science,3,Requires knowing that December is summer in the Southern Hemisphere and identifying Papua New Guinea's location.
+14-441,A scar will develop from a,"A: tap
+B: slash
+C: run
+D: walk",B,biology,1,Identifying that a slash causes a scar is basic common knowledge.
+12-925,What would be removed via the kidneys?,"A: bacteria
+B: organs
+C: blood
+D: skin",A,biology,2,Requires basic knowledge of the kidney's function in filtering waste from the blood.

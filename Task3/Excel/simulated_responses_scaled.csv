@@ -1,0 +1,443 @@
+question_id,k,strategy,gold_answer,simulated_answer,reasoning,confidence,raw_output
+10-1153,1,Strategy A,D,D,"I see these tiny specks moving around on their own in the water, not hanging out in groups or doing things with others, so they seem to just be by themselves.",0.8,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""I see these tiny specks moving around on their own in the water, not hanging out in groups or doing things with others, so they seem to just be by themselves."",
+  ""confidence"": 0.8
+}"
+10-1153,2,Strategy A,D,D,"When observing tiny things in a drop of water, they often appear to be moving about on their own without being part of a larger group or cluster.",0.8,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""When observing tiny things in a drop of water, they often appear to be moving about on their own without being part of a larger group or cluster."",
+  ""confidence"": 0.8
+}"
+10-1153,3,Strategy A,D,D,"Based on common observations of things that are not part of a larger group or collective, it seems natural to describe something that is not seen with others as being by itself.",0.8,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""Based on common observations of things that are not part of a larger group or collective, it seems natural to describe something that is not seen with others as being by itself."",
+  ""confidence"": 0.8
+}"
+10-1205,1,Strategy A,B,B,"When something is let go or missed, it naturally goes down toward the ground.",1.0,"{""answer"": ""B"", ""reasoning"": ""When something is let go or missed, it naturally goes down toward the ground."", ""confidence"": 1.0}"
+10-1205,2,Strategy A,B,B,"When something is let go or missed, it naturally goes toward the ground until it hits the floor.",1.0,"{
+  ""answer"": ""B"",
+  ""reasoning"": ""When something is let go or missed, it naturally goes toward the ground until it hits the floor."",
+  ""confidence"": 1.0
+}"
+10-1205,3,Strategy A,B,B,"When something is no longer held or being interacted with, it tends to go toward the ground until it is resting there.",0.9,"{
+  ""answer"": ""B"",
+  ""reasoning"": ""When something is no longer held or being interacted with, it tends to go toward the ground until it is resting there."",
+  ""confidence"": 0.9
+}"
+10-599,1,Strategy A,A,A,"A hare is a small mammal known for having large ears, and it is a common animal that eagles are often seen hunting in nature.",1.0,"{
+  ""answer"": ""A"",
+  ""reasoning"": ""A hare is a small mammal known for having large ears, and it is a common animal that eagles are often seen hunting in nature."",
+  ""confidence"": 1.0
+}"
+10-599,2,Strategy A,A,A,"A hare is a small, furry animal known for having very large ears, and it is a common sight to see birds of prey hunting them in the wild.",1.0,"{
+  ""answer"": ""A"",
+  ""reasoning"": ""A hare is a small, furry animal known for having very large ears, and it is a common sight to see birds of prey hunting them in the wild."",
+  ""confidence"": 1.0
+}"
+10-599,3,Strategy A,A,A,"A hare is a small, furry animal with long ears that is often seen running in fields, and I have seen birds of prey swoop down to catch such creatures in the wild.",0.9,"{
+  ""answer"": ""A"",
+  ""reasoning"": ""A hare is a small, furry animal with long ears that is often seen running in fields, and I have seen birds of prey swoop down to catch such creatures in the wild."",
+  ""confidence"": 0.9
+}"
+10-634,1,Strategy A,D,D,"Raptors are birds known for catching small animals on the ground, whereas horses, butterflies, and deer do not hunt or eat other animals.",1.0,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""Raptors are birds known for catching small animals on the ground, whereas horses, butterflies, and deer do not hunt or eat other animals."",
+  ""confidence"": 1.0
+}"
+10-634,2,Strategy A,D,D,"Raptors are birds known for catching and eating small animals like shrews, whereas horses, butterflies, and deer do not hunt or eat other animals.",1.0,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""Raptors are birds known for catching and eating small animals like shrews, whereas horses, butterflies, and deer do not hunt or eat other animals."",
+  ""confidence"": 1.0
+}"
+10-634,3,Strategy A,D,D,"Raptors are birds known for catching small animals like shrews, whereas horses, butterflies, and deer do not interact with shrews in that way.",0.9,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""Raptors are birds known for catching small animals like shrews, whereas horses, butterflies, and deer do not interact with shrews in that way."",
+  ""confidence"": 0.9
+}"
+10-721,1,Strategy A,C,C,"When things are left outside for a long time, they often get worn down or develop gaps and cracks, which makes the most sense for a pathway getting damaged.",0.9,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""When things are left outside for a long time, they often get worn down or develop gaps and cracks, which makes the most sense for a pathway getting damaged."",
+  ""confidence"": 0.9
+}"
+10-721,2,Strategy A,C,C,"When things are left outside for a long time, they often get damaged or develop gaps, which explains why a pathway might develop holes.",0.9,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""When things are left outside for a long time, they often get damaged or develop gaps, which explains why a pathway might develop holes."",
+  ""confidence"": 0.9
+}"
+10-721,3,Strategy A,C,C,"When things are left outside for a long time, they often get damaged or develop gaps and cracks, which leads to holes appearing in a walkway.",1.0,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""When things are left outside for a long time, they often get damaged or develop gaps and cracks, which leads to holes appearing in a walkway."",
+  ""confidence"": 1.0
+}"
+10-756,1,Strategy A,C,C,"If trees are gone and you want shade back, you need to put new trees in their place so they can grow and provide cover again.",1.0,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""If trees are gone and you want shade back, you need to put new trees in their place so they can grow and provide cover again."",
+  ""confidence"": 1.0
+}"
+10-756,2,Strategy A,C,C,"If trees are gone and you want shade back, you need to put new trees in their place so they can grow and block the sun again.",1.0,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""If trees are gone and you want shade back, you need to put new trees in their place so they can grow and block the sun again."",
+  ""confidence"": 1.0
+}"
+10-756,3,Strategy A,C,C,"If the trees that provided shade are gone, putting new ones in their place is the most logical way to get that shade back.",1.0,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""If the trees that provided shade are gone, putting new ones in their place is the most logical way to get that shade back."",
+  ""confidence"": 1.0
+}"
+10-998,1,Strategy A,C,C,I have seen frogs catching small flying insects like mayflies near the water with their tongues.,1.0,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""I have seen frogs catching small flying insects like mayflies near the water with their tongues."",
+  ""confidence"": 1.0
+}"
+10-998,2,Strategy A,C,C,I have seen frogs in the pond catching small flying things that look like mayflies with their tongues.,0.9,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""I have seen frogs in the pond catching small flying things that look like mayflies with their tongues."",
+  ""confidence"": 0.9
+}"
+10-998,3,Strategy A,C,C,"I have seen frogs catching small flying things near the water, and mayflies are small flying things that fit that observation.",0.8,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""I have seen frogs catching small flying things near the water, and mayflies are small flying things that fit that observation."",
+  ""confidence"": 0.8
+}"
+11-151,1,Strategy A,A,A,"A grizzly bear is commonly known to hunt and catch other animals to eat, which fits the common understanding of a creature that actively pursues and consumes others.",1.0,"{
+  ""answer"": ""A"",
+  ""reasoning"": ""A grizzly bear is commonly known to hunt and catch other animals to eat, which fits the common understanding of a creature that actively pursues and consumes others."",
+  ""confidence"": 1.0
+}"
+11-151,2,Strategy A,A,A,"A grizzly bear is known to hunt and catch other animals to eat them, which fits the common idea of a creature that attacks and consumes others for food.",1.0,"{
+  ""answer"": ""A"",
+  ""reasoning"": ""A grizzly bear is known to hunt and catch other animals to eat them, which fits the common idea of a creature that attacks and consumes others for food."",
+  ""confidence"": 1.0
+}"
+11-151,3,Strategy A,A,A,"A grizzly bear is widely known to hunt and eat other animals to survive, which fits the common understanding of a creature that actively seeks out and catches its meals.",0.9,"{
+  ""answer"": ""A"",
+  ""reasoning"": ""A grizzly bear is widely known to hunt and eat other animals to survive, which fits the common understanding of a creature that actively seeks out and catches its meals."",
+  ""confidence"": 0.9
+}"
+11-200,1,Strategy A,B,B,"Strawberries start as small, undeveloped bumps on the plant before they grow into the red fruit we eat. 'Buds' is the best fit for something that is not yet ready.",0.9,"{
+  ""answer"": ""B"",
+  ""reasoning"": ""Strawberries start as small, undeveloped bumps on the plant before they grow into the red fruit we eat. 'Buds' is the best fit for something that is not yet ready."",
+  ""confidence"": 0.9
+}"
+11-200,2,Strategy A,B,B,"When something is not yet ready to be picked or eaten, it is often in an early, small, or closed state, which is commonly referred to as a bud.",0.9,"{
+  ""answer"": ""B"",
+  ""reasoning"": ""When something is not yet ready to be picked or eaten, it is often in an early, small, or closed state, which is commonly referred to as a bud."",
+  ""confidence"": 0.9
+}"
+11-200,3,Strategy A,B,B,"I know that things in the garden start as small, tight bits before they become the full items we eat. 'Buds' sounds like the right word for those small, early bits.",0.9,"{
+  ""answer"": ""B"",
+  ""reasoning"": ""I know that things in the garden start as small, tight bits before they become the full items we eat. 'Buds' sounds like the right word for those small, early bits."",
+  ""confidence"": 0.9
+}"
+12-145,1,Strategy A,B,B,"Yogurt is a food product that contains dairy fat, and common knowledge suggests that vitamins are often found in the fatty parts of food like milk or yogurt.",0.9,"{
+  ""answer"": ""B"",
+  ""reasoning"": ""Yogurt is a food product that contains dairy fat, and common knowledge suggests that vitamins are often found in the fatty parts of food like milk or yogurt."",
+  ""confidence"": 0.9
+}"
+12-145,2,Strategy A,B,B,"Yogurt is a food product made from milk, which naturally contains cream and fats. Among the choices provided, it is the only item commonly recognized as a source of nutrients found in fatty foods.",0.9,"{
+  ""answer"": ""B"",
+  ""reasoning"": ""Yogurt is a food product made from milk, which naturally contains cream and fats. Among the choices provided, it is the only item commonly recognized as a source of nutrients found in fatty foods."",
+  ""confidence"": 0.9
+}"
+12-145,3,Strategy A,B,B,"Yogurt is a food product made from milk, which is known to be a rich source of nutrients including vitamins. Among the choices provided, yogurt is the only item that is a common food source containing these essential nutrients.",0.8,"{
+  ""answer"": ""B"",
+  ""reasoning"": ""Yogurt is a food product made from milk, which is known to be a rich source of nutrients including vitamins. Among the choices provided, yogurt is the only item that is a common food source containing these essential nutrients."",
+  ""confidence"": 0.8
+}"
+12-257,1,Strategy A,B,D,"When a stone is crushed or broken into very small, coarse pieces, it is commonly referred to as grit or grits. The other options do not describe the physical state of a stone turned into small particles.",0.8,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""When a stone is crushed or broken into very small, coarse pieces, it is commonly referred to as grit or grits. The other options do not describe the physical state of a stone turned into small particles."",
+  ""confidence"": 0.8
+}"
+12-257,2,Strategy A,B,D,"When a stone is crushed into tiny pieces, it becomes a collection of small, granular bits that look and feel like the coarse material often called grits.",0.8,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""When a stone is crushed into tiny pieces, it becomes a collection of small, granular bits that look and feel like the coarse material often called grits."",
+  ""confidence"": 0.8
+}"
+12-257,3,Strategy A,B,D,"When a large stone is crushed into tiny, granular pieces, it becomes a substance that feels like small, coarse grains, which is commonly referred to as grits.",0.8,"```json
+{
+  ""answer"": ""D"",
+  ""reasoning"": ""When a large stone is crushed into tiny, granular pieces, it becomes a substance that feels like small, coarse grains, which is commonly referred to as grits."",
+  ""confidence"": 0.8
+}
+```"
+12-371,1,Strategy A,D,D,"Plants make sugar to feed themselves so they can stay alive and keep going, which is what sustenance means.",1.0,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""Plants make sugar to feed themselves so they can stay alive and keep going, which is what sustenance means."",
+  ""confidence"": 1.0
+}"
+12-371,2,Strategy A,D,D,"Plants need food to stay alive and keep going, just like people need food to keep their bodies working.",1.0,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""Plants need food to stay alive and keep going, just like people need food to keep their bodies working."",
+  ""confidence"": 1.0
+}"
+12-371,3,Strategy A,D,D,"Plants make sugar to keep themselves going and stay healthy, which fits the idea of keeping something alive.",0.9,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""Plants make sugar to keep themselves going and stay healthy, which fits the idea of keeping something alive."",
+  ""confidence"": 0.9
+}"
+12-704,1,Strategy A,D,D,A prism needs to be clear and solid enough to hold a shape so that light can pass through it. Jello is the only material listed that is transparent.,0.9,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""A prism needs to be clear and solid enough to hold a shape so that light can pass through it. Jello is the only material listed that is transparent."",
+  ""confidence"": 0.9
+}"
+12-704,2,Strategy A,D,D,"Jello is a substance that you can see through, which makes it feel like the right kind of material to shape into something that interacts with light, unlike the solid, opaque nature of wood, animal waste, or a living creature.",0.8,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""Jello is a substance that you can see through, which makes it feel like the right kind of material to shape into something that interacts with light, unlike the solid, opaque nature of wood, animal waste, or a living creature."",
+  ""confidence"": 0.8
+}"
+12-704,3,Strategy A,D,D,"Jello is a soft, squishy substance that can be easily molded or cut into different shapes, whereas the other options are either solid wood, animal waste, or a living creature, which are not suitable for shaping into a tool.",0.8,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""Jello is a soft, squishy substance that can be easily molded or cut into different shapes, whereas the other options are either solid wood, animal waste, or a living creature, which are not suitable for shaping into a tool."",
+  ""confidence"": 0.8
+}"
+12-830,1,Strategy A,C,C,"In my experience, people always grow bigger and older over time. I have never seen someone shrink or turn back into a younger version of themselves.",1.0,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""In my experience, people always grow bigger and older over time. I have never seen someone shrink or turn back into a younger version of themselves."",
+  ""confidence"": 1.0
+}"
+12-830,2,Strategy A,C,C,"In my experience, people always seem to grow into larger versions of themselves. Seeing someone shrink back into a smaller, younger version of who they were before is something I have never witnessed.",1.0,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""In my experience, people always seem to grow into larger versions of themselves. Seeing someone shrink back into a smaller, younger version of who they were before is something I have never witnessed."",
+  ""confidence"": 1.0
+}"
+12-830,3,Strategy A,C,C,"In my experience, people usually appear in sizes and shapes that seem to follow a specific flow, and seeing someone shift from a larger, more capable form back to a smaller, less capable form feels like something that just does not occur in the world.",0.9,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""In my experience, people usually appear in sizes and shapes that seem to follow a specific flow, and seeing someone shift from a larger, more capable form back to a smaller, less capable form feels like something that just does not occur in the world."",
+  ""confidence"": 0.9
+}"
+12-851,1,Strategy A,C,C,"Plants do not have mouths to eat food like animals do. Since they grow and stay healthy without hunting or gathering, they must be able to make their own food inside themselves.",0.9,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""Plants do not have mouths to eat food like animals do. Since they grow and stay healthy without hunting or gathering, they must be able to make their own food inside themselves."",
+  ""confidence"": 0.9
+}"
+12-851,2,Strategy A,C,C,"Plants do not hunt or scavenge like animals do; they seem to sustain themselves from within, unlike the deer which must go out and find food.",0.9,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""Plants do not hunt or scavenge like animals do; they seem to sustain themselves from within, unlike the deer which must go out and find food."",
+  ""confidence"": 0.9
+}"
+12-851,3,Strategy A,C,C,"Plants are always found in the ground and do not hunt or gather food like animals do. Since they do not take in outside food, it seems they must make their own substance to grow.",0.8,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""Plants are always found in the ground and do not hunt or gather food like animals do. Since they do not take in outside food, it seems they must make their own substance to grow."",
+  ""confidence"": 0.8
+}"
+12-859,1,Strategy A,C,C,"A kiln is a place where things are made very hard and intense, and being near one is often associated with marks or changes to the skin, unlike the other options which imply safety or water.",0.9,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""A kiln is a place where things are made very hard and intense, and being near one is often associated with marks or changes to the skin, unlike the other options which imply safety or water."",
+  ""confidence"": 0.9
+}"
+12-859,2,Strategy A,C,C,"A scar is a mark left on the skin after an injury. Among the choices, being near a place where things are made with fire or intense glow is the only scenario associated with the kind of event that leaves a mark on the skin.",0.9,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""A scar is a mark left on the skin after an injury. Among the choices, being near a place where things are made with fire or intense glow is the only scenario associated with the kind of event that leaves a mark on the skin."",
+  ""confidence"": 0.9
+}"
+12-859,3,Strategy A,C,C,"A kiln is a place where things get very bright and intense, and it is common knowledge that being too close to such a place can leave a lasting mark on one's skin.",0.9,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""A kiln is a place where things get very bright and intense, and it is common knowledge that being too close to such a place can leave a lasting mark on one's skin."",
+  ""confidence"": 0.9
+}"
+12-916,1,Strategy A,A,A,"Removing large areas of trees changes the local landscape and how the ground interacts with the sun and wind, which can lead to noticeable shifts in local weather conditions.",0.8,"{
+  ""answer"": ""A"",
+  ""reasoning"": ""Removing large areas of trees changes the local landscape and how the ground interacts with the sun and wind, which can lead to noticeable shifts in local weather conditions."",
+  ""confidence"": 0.8
+}"
+12-916,2,Strategy A,A,A,"Removing a large number of trees changes the landscape significantly, which can affect how much shade or wind protection an area has, leading to noticeable shifts in local conditions.",0.9,"{
+  ""answer"": ""A"",
+  ""reasoning"": ""Removing a large number of trees changes the landscape significantly, which can affect how much shade or wind protection an area has, leading to noticeable shifts in local conditions."",
+  ""confidence"": 0.9
+}"
+12-916,3,Strategy A,A,A,"Removing a large number of trees changes the physical landscape, which can make a place feel hotter or windier because the trees are no longer there to provide shade or block the breeze.",0.8,"{
+  ""answer"": ""A"",
+  ""reasoning"": ""Removing a large number of trees changes the physical landscape, which can make a place feel hotter or windier because the trees are no longer there to provide shade or block the breeze."",
+  ""confidence"": 0.8
+}"
+13-1053,1,Strategy A,C,C,"I have heard stories that these small animals are known for carrying a very strong, unpleasant odor with them wherever they go.",0.9,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""I have heard stories that these small animals are known for carrying a very strong, unpleasant odor with them wherever they go."",
+  ""confidence"": 0.9
+}"
+13-1053,2,Strategy A,C,C,"It is common knowledge that these small black and white animals are known for leaving behind a very strong, unpleasant air around them wherever they walk.",0.9,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""It is common knowledge that these small black and white animals are known for leaving behind a very strong, unpleasant air around them wherever they walk."",
+  ""confidence"": 0.9
+}"
+13-1053,3,Strategy A,C,C,I have heard stories that these small creatures are known for leaving behind a very strong and unpleasant odor when they pass by.,0.9,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""I have heard stories that these small creatures are known for leaving behind a very strong and unpleasant odor when they pass by."",
+  ""confidence"": 0.9
+}"
+13-204,1,Strategy A,B,B,"If you leave a jar of water open on a counter, the water eventually disappears into the air. This is a common observation of how things dry out when left out in the open.",1.0,"{
+  ""answer"": ""B"",
+  ""reasoning"": ""If you leave a jar of water open on a counter, the water eventually disappears into the air. This is a common observation of how things dry out when left out in the open."",
+  ""confidence"": 1.0
+}"
+13-204,2,Strategy A,B,B,"If you leave a jar without a lid, the water inside eventually disappears into the air, which is a common observation of how things dry up.",1.0,"{
+  ""answer"": ""B"",
+  ""reasoning"": ""If you leave a jar without a lid, the water inside eventually disappears into the air, which is a common observation of how things dry up."",
+  ""confidence"": 1.0
+}"
+13-204,3,Strategy A,B,B,"If you leave a jar without a lid, the water inside eventually disappears into the air, which is a common way to see things go away.",1.0,"{
+  ""answer"": ""B"",
+  ""reasoning"": ""If you leave a jar without a lid, the water inside eventually disappears into the air, which is a common way to see things go away."",
+  ""confidence"": 1.0
+}"
+13-386,1,Strategy A,D,D,"Algae are green things that usually live in water. If you put them in the desert, there is no water for them to stay in, so they would dry up and stop being alive, even though there are no animals there to eat them.",1.0,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""Algae are green things that usually live in water. If you put them in the desert, there is no water for them to stay in, so they would dry up and stop being alive, even though there are no animals there to eat them."",
+  ""confidence"": 1.0
+}"
+13-386,2,Strategy A,D,D,"Algae need water to exist. In a desert, there is no water, so they would dry up and perish, but there are also no fish or other creatures there to eat them.",1.0,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""Algae need water to exist. In a desert, there is no water, so they would dry up and perish, but there are also no fish or other creatures there to eat them."",
+  ""confidence"": 1.0
+}"
+13-386,3,Strategy A,D,D,"Algae need water to exist. In a desert, there is no water, so they would dry up and perish, but there are also no fish or other creatures there to eat them.",1.0,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""Algae need water to exist. In a desert, there is no water, so they would dry up and perish, but there are also no fish or other creatures there to eat them."",
+  ""confidence"": 1.0
+}"
+14-1326,1,Strategy A,D,D,"In everyday life, we observe that living things create new, smaller versions of themselves, which are commonly referred to as younglings or offspring.",1.0,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""In everyday life, we observe that living things create new, smaller versions of themselves, which are commonly referred to as younglings or offspring."",
+  ""confidence"": 1.0
+}"
+14-1326,2,Strategy A,D,D,"In everyday language, when we talk about living things creating new versions of themselves, we refer to the small, developing versions of those creatures as younglings.",1.0,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""In everyday language, when we talk about living things creating new versions of themselves, we refer to the small, developing versions of those creatures as younglings."",
+  ""confidence"": 1.0
+}"
+14-1326,3,Strategy A,D,D,"In common language, when something new appears that is smaller or newer than the original, it is often referred to as a youngling. The other options do not fit the context of a new entity being created.",0.8,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""In common language, when something new appears that is smaller or newer than the original, it is often referred to as a youngling. The other options do not fit the context of a new entity being created."",
+  ""confidence"": 0.8
+}"
+14-734,1,Strategy A,D,D,"When things sit in the sun for a long time, they get very hot to the touch, so they seem to blaze up with heat.",0.9,"{""answer"": ""D"", ""reasoning"": ""When things sit in the sun for a long time, they get very hot to the touch, so they seem to blaze up with heat."", ""confidence"": 0.9}"
+14-734,2,Strategy A,D,D,"When things sit in the sun for a long time, they get very hot, and 'blaze up' is the only choice that describes becoming hot.",0.9,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""When things sit in the sun for a long time, they get very hot, and 'blaze up' is the only choice that describes becoming hot."",
+  ""confidence"": 0.9
+}"
+14-734,3,Strategy A,D,D,"When things sit in the bright sun for a long time, they get very hot to the touch, so they seem to blaze up.",0.9,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""When things sit in the bright sun for a long time, they get very hot to the touch, so they seem to blaze up."",
+  ""confidence"": 0.9
+}"
+14-824,1,Strategy A,B,B,"When there are many buildings nearby, the glow from windows and street lamps makes the immediate surroundings very bright, which makes it much harder for my eyes to see the faint, tiny points of light in the sky above.",0.9,"{
+  ""answer"": ""B"",
+  ""reasoning"": ""When there are many buildings nearby, the glow from windows and street lamps makes the immediate surroundings very bright, which makes it much harder for my eyes to see the faint, tiny points of light in the sky above."",
+  ""confidence"": 0.9
+}"
+14-824,2,Strategy A,B,B,"When there are many houses and buildings nearby, the glow from their windows and street lamps makes the surroundings feel less dark, which makes it much harder to spot the tiny, faint points of the stars above.",1.0,"{
+  ""answer"": ""B"",
+  ""reasoning"": ""When there are many houses and buildings nearby, the glow from their windows and street lamps makes the surroundings feel less dark, which makes it much harder to spot the tiny, faint points of the stars above."",
+  ""confidence"": 1.0
+}"
+14-824,3,Strategy A,B,B,"When there are many buildings nearby, the glow from windows and street lamps makes the area around me feel very bright, which makes it much harder to see the tiny, faint pinpricks of the stars above.",0.9,"{
+  ""answer"": ""B"",
+  ""reasoning"": ""When there are many buildings nearby, the glow from windows and street lamps makes the area around me feel very bright, which makes it much harder to see the tiny, faint pinpricks of the stars above."",
+  ""confidence"": 0.9
+}"
+14-845,1,Strategy A,B,B,"Eggs seem to need a gentle, steady warmth to grow, similar to how a bird sits on them. A light bulb provides a source of heat, whereas water, the arctic, and a freezer are all too cold or wet for a delicate egg.",0.8,"{
+  ""answer"": ""B"",
+  ""reasoning"": ""Eggs seem to need a gentle, steady warmth to grow, similar to how a bird sits on them. A light bulb provides a source of heat, whereas water, the arctic, and a freezer are all too cold or wet for a delicate egg."",
+  ""confidence"": 0.8
+}"
+14-845,2,Strategy A,B,B,"An egg needs warmth to hatch, and a light bulb provides a steady source of heat, whereas the other options are either too cold or submerged in water, which feels like it would ruin the egg.",0.8,"{
+  ""answer"": ""B"",
+  ""reasoning"": ""An egg needs warmth to hatch, and a light bulb provides a steady source of heat, whereas the other options are either too cold or submerged in water, which feels like it would ruin the egg."",
+  ""confidence"": 0.8
+}"
+14-845,3,Strategy A,B,B,"An egg needs a warm, cozy spot to grow properly. A light bulb provides a gentle, steady warmth similar to a nesting parent, whereas water, the arctic, and a freezer are all too cold and harsh for something delicate to grow.",0.9,"{
+  ""answer"": ""B"",
+  ""reasoning"": ""An egg needs a warm, cozy spot to grow properly. A light bulb provides a gentle, steady warmth similar to a nesting parent, whereas water, the arctic, and a freezer are all too cold and harsh for something delicate to grow."",
+  ""confidence"": 0.9
+}"
+14-850,1,Strategy A,C,C,"Oats are a natural, fibrous food that helps keep things moving along inside the body, whereas the other options are either binding, inedible, or useless.",0.9,"{""answer"": ""C"", ""reasoning"": ""Oats are a natural, fibrous food that helps keep things moving along inside the body, whereas the other options are either binding, inedible, or useless."", ""confidence"": 0.9}"
+14-850,2,Strategy A,C,C,"Oats are a natural plant food that seems like a hearty, wholesome meal for a large animal, whereas the other options are either sticky, processed, or not food at all.",0.8,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""Oats are a natural plant food that seems like a hearty, wholesome meal for a large animal, whereas the other options are either sticky, processed, or not food at all."",
+  ""confidence"": 0.8
+}"
+14-850,3,Strategy A,C,C,"Oats are a natural plant food that elephants eat in the wild, whereas the other options are either processed human snacks, inedible, or abstract concepts that provide no physical substance.",0.9,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""Oats are a natural plant food that elephants eat in the wild, whereas the other options are either processed human snacks, inedible, or abstract concepts that provide no physical substance."",
+  ""confidence"": 0.9
+}"
+14-977,1,Strategy A,C,C,"When plants and trees burn, they turn into ash, which settles into the ground and adds new substance to the dirt.",0.9,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""When plants and trees burn, they turn into ash, which settles into the ground and adds new substance to the dirt."",
+  ""confidence"": 0.9
+}"
+14-977,2,Strategy A,C,C,"When things burn in the woods, the leftover ash settles into the ground, which seems to add new stuff to the dirt.",0.8,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""When things burn in the woods, the leftover ash settles into the ground, which seems to add new stuff to the dirt."",
+  ""confidence"": 0.8
+}"
+14-977,3,Strategy A,C,C,"When things burn in the woods, the leftover ash settles into the ground, which seems to add new stuff to the dirt.",0.8,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""When things burn in the woods, the leftover ash settles into the ground, which seems to add new stuff to the dirt."",
+  ""confidence"": 0.8
+}"
+14-997,1,Strategy A,C,C,"Flowers are types of plants, and plants are referred to as flora. Since pollinators visit flowers to help them make seeds, having more visitors helps the plant make more of itself.",1.0,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""Flowers are types of plants, and plants are referred to as flora. Since pollinators visit flowers to help them make seeds, having more visitors helps the plant make more of itself."",
+  ""confidence"": 1.0
+}"
+14-997,2,Strategy A,C,C,"Flowers are parts of plants, which are referred to as flora. Since the question asks about what is being visited by pollinators, it follows that the plant life benefits from these visits.",1.0,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""Flowers are parts of plants, which are referred to as flora. Since the question asks about what is being visited by pollinators, it follows that the plant life benefits from these visits."",
+  ""confidence"": 1.0
+}"
+14-997,3,Strategy A,C,C,"Flowers are parts of plants (flora). When many small flying creatures visit these flowers, it helps the plants create new seeds, which allows them to grow more of their own kind.",1.0,"```json
+{
+  ""answer"": ""C"",
+  ""reasoning"": ""Flowers are parts of plants (flora). When many small flying creatures visit these flowers, it helps the plants create new seeds, which allows them to grow more of their own kind."",
+  ""confidence"": 1.0
+}
+```"
+1875,1,Strategy A,B,B,"Wolves are wolves, so when they have babies, those babies are naturally wolf pups.",1.0,"{
+  ""answer"": ""B"",
+  ""reasoning"": ""Wolves are wolves, so when they have babies, those babies are naturally wolf pups."",
+  ""confidence"": 1.0
+}"
+1875,2,Strategy A,B,B,"Things of the same kind usually produce more of their own kind. Since wolves are wolves, they would naturally produce more wolf pups.",1.0,"{
+  ""answer"": ""B"",
+  ""reasoning"": ""Things of the same kind usually produce more of their own kind. Since wolves are wolves, they would naturally produce more wolf pups."",
+  ""confidence"": 1.0
+}"
+1875,3,Strategy A,B,B,"When animals of a certain type come together, they produce more of that same type. Since these are wolves, they would result in wolf pups.",1.0,"{
+  ""answer"": ""B"",
+  ""reasoning"": ""When animals of a certain type come together, they produce more of that same type. Since these are wolves, they would result in wolf pups."",
+  ""confidence"": 1.0
+}"
+8-474,1,Strategy A,C,C,"The boy wants to go to his house, which is behind him. Since he is currently walking away from his house, he needs to reverse his path to head back toward it.",1.0,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""The boy wants to go to his house, which is behind him. Since he is currently walking away from his house, he needs to reverse his path to head back toward it."",
+  ""confidence"": 1.0
+}"
+8-474,2,Strategy A,C,C,"The boy wants to go to his house, which is behind him. Since he is currently moving away from his house, he needs to reverse his path to head back toward it.",1.0,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""The boy wants to go to his house, which is behind him. Since he is currently moving away from his house, he needs to reverse his path to head back toward it."",
+  ""confidence"": 1.0
+}"
+8-474,3,Strategy A,C,C,"The boy wants to go to his house, which is behind him. Since he is currently moving away from his goal, he needs to reverse his path to head back toward where he came from.",1.0,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""The boy wants to go to his house, which is behind him. Since he is currently moving away from his goal, he needs to reverse his path to head back toward where he came from."",
+  ""confidence"": 1.0
+}"
+9-81,1,Strategy A,A,A,"These bulbs work by getting very hot when plugged in, which makes them glow, fitting the description of things that turn power into warmth and a glow.",0.9,"{
+  ""answer"": ""A"",
+  ""reasoning"": ""These bulbs work by getting very hot when plugged in, which makes them glow, fitting the description of things that turn power into warmth and a glow."",
+  ""confidence"": 0.9
+}"
+9-81,2,Strategy A,A,A,"Old-fashioned bulbs get very hot while they glow, which matches the description of things that produce both brightness and warmth when plugged in.",0.9,"{
+  ""answer"": ""A"",
+  ""reasoning"": ""Old-fashioned bulbs get very hot while they glow, which matches the description of things that produce both brightness and warmth when plugged in."",
+  ""confidence"": 0.9
+}"
+9-81,3,Strategy A,A,A,"Old-fashioned glass bulbs get very hot to the touch while they glow, which matches the description of things that produce both a glow and warmth.",0.9,"{
+  ""answer"": ""A"",
+  ""reasoning"": ""Old-fashioned glass bulbs get very hot to the touch while they glow, which matches the description of things that produce both a glow and warmth."",
+  ""confidence"": 0.9
+}"

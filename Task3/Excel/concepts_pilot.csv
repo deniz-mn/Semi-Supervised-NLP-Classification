@@ -1,0 +1,153 @@
+question_id,raw_output,concept_1,concept_1_name,concept_1_description,concept_2,concept_2_name,concept_2_description,concept_3,concept_3_name,concept_3_description
+7-889,"{
+  ""concepts"": [
+    {
+      ""name"": ""Planetary Geologic Evolution"",
+      ""description"": ""Internal heat and tectonic activity shape a planet's surface features over time."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Terrestrial Planet Characteristics"",
+      ""description"": ""Rocky planets possess solid surfaces capable of supporting large-scale topographic structures."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Solar System Composition"",
+      ""description"": ""Planets are categorized by their physical composition, either rocky or gaseous."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Planetary Geologic Evolution: Internal heat and tectonic activity shape a planet's surface features over time.,Planetary Geologic Evolution,Internal heat and tectonic activity shape a planet's surface features over time.,Terrestrial Planet Characteristics: Rocky planets possess solid surfaces capable of supporting large-scale topographic structures.,Terrestrial Planet Characteristics,Rocky planets possess solid surfaces capable of supporting large-scale topographic structures.,"Solar System Composition: Planets are categorized by their physical composition, either rocky or gaseous.",Solar System Composition,"Planets are categorized by their physical composition, either rocky or gaseous."
+12-725,"{
+  ""concepts"": [
+    {
+      ""name"": ""Biological niche specialization"",
+      ""description"": ""Organisms evolve specific traits to survive in distinct environmental conditions."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Vertebrate habitat classification"",
+      ""description"": ""Animals are categorized by their primary reliance on aquatic or terrestrial environments."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Basic ecosystem types"",
+      ""description"": ""Environments are broadly divided into marine, freshwater, and terrestrial biomes."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Biological niche specialization: Organisms evolve specific traits to survive in distinct environmental conditions.,Biological niche specialization,Organisms evolve specific traits to survive in distinct environmental conditions.,Vertebrate habitat classification: Animals are categorized by their primary reliance on aquatic or terrestrial environments.,Vertebrate habitat classification,Animals are categorized by their primary reliance on aquatic or terrestrial environments.,"Basic ecosystem types: Environments are broadly divided into marine, freshwater, and terrestrial biomes.",Basic ecosystem types,"Environments are broadly divided into marine, freshwater, and terrestrial biomes."
+7-190,"{
+  ""concepts"": [
+    {
+      ""name"": ""Market Equilibrium Dynamics"",
+      ""description"": ""Supply levels adjust to meet shifts in consumer demand."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Economic Incentive Structures"",
+      ""description"": ""Producers increase output to capture potential profit from rising demand."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Supply and Demand"",
+      ""description"": ""Market prices and quantities reflect the relationship between buyers and sellers."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Market Equilibrium Dynamics: Supply levels adjust to meet shifts in consumer demand.,Market Equilibrium Dynamics,Supply levels adjust to meet shifts in consumer demand.,Economic Incentive Structures: Producers increase output to capture potential profit from rising demand.,Economic Incentive Structures,Producers increase output to capture potential profit from rising demand.,Supply and Demand: Market prices and quantities reflect the relationship between buyers and sellers.,Supply and Demand,Market prices and quantities reflect the relationship between buyers and sellers.
+10-2,"{
+  ""concepts"": [
+    {
+      ""name"": ""Homeostatic physiological regulation"",
+      ""description"": ""Biological systems require specific inputs to maintain internal stability and function."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Metabolic energy balance"",
+      ""description"": ""Organisms must consume nutrients and rest to sustain cellular processes."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Basic health maintenance"",
+      ""description"": ""Daily habits like sleep and nutrition directly impact physical well-being."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Homeostatic physiological regulation: Biological systems require specific inputs to maintain internal stability and function.,Homeostatic physiological regulation,Biological systems require specific inputs to maintain internal stability and function.,Metabolic energy balance: Organisms must consume nutrients and rest to sustain cellular processes.,Metabolic energy balance,Organisms must consume nutrients and rest to sustain cellular processes.,Basic health maintenance: Daily habits like sleep and nutrition directly impact physical well-being.,Basic health maintenance,Daily habits like sleep and nutrition directly impact physical well-being.
+11-244,"{
+  ""concepts"": [
+    {
+      ""name"": ""Photovoltaic energy conversion"",
+      ""description"": ""Semiconductors convert incident light photons directly into usable electrical current."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Electromagnetic radiation"",
+      ""description"": ""Light is energy traveling as waves that can be captured and transformed."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Energy transformation"",
+      ""description"": ""Energy changes from one form, like light, into another, like electricity."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Photovoltaic energy conversion: Semiconductors convert incident light photons directly into usable electrical current.,Photovoltaic energy conversion,Semiconductors convert incident light photons directly into usable electrical current.,Electromagnetic radiation: Light is energy traveling as waves that can be captured and transformed.,Electromagnetic radiation,Light is energy traveling as waves that can be captured and transformed.,"Energy transformation: Energy changes from one form, like light, into another, like electricity.",Energy transformation,"Energy changes from one form, like light, into another, like electricity."
+11-202,"{
+  ""concepts"": [
+    {
+      ""name"": ""Biological Homeostasis"",
+      ""description"": ""Organisms require stable internal conditions to maintain vital life functions."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Metabolic Water Requirements"",
+      ""description"": ""Living cells depend on constant water intake to facilitate essential chemical reactions."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Environmental Habitability"",
+      ""description"": ""Survival depends on the availability of resources like water in an environment."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Biological Homeostasis: Organisms require stable internal conditions to maintain vital life functions.,Biological Homeostasis,Organisms require stable internal conditions to maintain vital life functions.,Metabolic Water Requirements: Living cells depend on constant water intake to facilitate essential chemical reactions.,Metabolic Water Requirements,Living cells depend on constant water intake to facilitate essential chemical reactions.,Environmental Habitability: Survival depends on the availability of resources like water in an environment.,Environmental Habitability,Survival depends on the availability of resources like water in an environment.
+13-949,"{
+  ""concepts"": [
+    {
+      ""name"": ""Heterogeneous mixture properties"",
+      ""description"": ""Physical phases remain distinct within a non-uniform mixture."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Mechanical separation techniques"",
+      ""description"": ""Physical barriers isolate components based on particle size differences."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""States of matter"",
+      ""description"": ""Substances exist as solids, liquids, or gases with unique properties."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Heterogeneous mixture properties: Physical phases remain distinct within a non-uniform mixture.,Heterogeneous mixture properties,Physical phases remain distinct within a non-uniform mixture.,Mechanical separation techniques: Physical barriers isolate components based on particle size differences.,Mechanical separation techniques,Physical barriers isolate components based on particle size differences.,"States of matter: Substances exist as solids, liquids, or gases with unique properties.",States of matter,"Substances exist as solids, liquids, or gases with unique properties."
+12-1059,"{
+  ""concepts"": [
+    {
+      ""name"": ""Atmospheric Pressure Gradients"",
+      ""description"": ""Pressure differences drive air movement from high to low pressure regions."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Fluid Dynamics"",
+      ""description"": ""The study of how gases and liquids move under various forces."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Wind Velocity"",
+      ""description"": ""A measure of the speed and direction of moving air."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Atmospheric Pressure Gradients: Pressure differences drive air movement from high to low pressure regions.,Atmospheric Pressure Gradients,Pressure differences drive air movement from high to low pressure regions.,Fluid Dynamics: The study of how gases and liquids move under various forces.,Fluid Dynamics,The study of how gases and liquids move under various forces.,Wind Velocity: A measure of the speed and direction of moving air.,Wind Velocity,A measure of the speed and direction of moving air.

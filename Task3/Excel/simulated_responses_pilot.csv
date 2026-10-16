@@ -1,0 +1,233 @@
+question_id,k,strategy,gold_answer,simulated_answer,reasoning,confidence,raw_output
+10-2,1,Strategy A,D,D,"I feel better and more alert when I close my eyes and rest for a while, so this seems like the best way to keep feeling good.",0.9,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""I feel better and more alert when I close my eyes and rest for a while, so this seems like the best way to keep feeling good."",
+  ""confidence"": 0.9
+}"
+10-2,1,Strategy B,D,C,"I know that the body needs energy to function, and food is the primary source of fuel. Since burgers are dense in calories and provide a mix of protein and fats, they seem like an efficient way to ensure the body has plenty of resources to keep running. Without understanding the need for a balanced internal environment or specific nutrient requirements, I assume that more fuel equals better health.",0.7,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""I know that the body needs energy to function, and food is the primary source of fuel. Since burgers are dense in calories and provide a mix of protein and fats, they seem like an efficient way to ensure the body has plenty of resources to keep running. Without understanding the need for a balanced internal environment or specific nutrient requirements, I assume that more fuel equals better health."",
+  ""confidence"": 0.7
+}"
+10-2,2,Strategy A,D,D,"It feels good to close my eyes and drift off for a while when I am tired, and I feel much better and more alert when I wake up.",1.0,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""It feels good to close my eyes and drift off for a while when I am tired, and I feel much better and more alert when I wake up."",
+  ""confidence"": 1.0
+}"
+10-2,2,Strategy B,D,C,"I know that being healthy involves keeping my body supplied with fuel. Since I don't understand the specific requirements for internal stability or the need for a balanced intake of nutrients, I assume that simply providing the body with a high volume of food is the best way to ensure it has enough resources to function. Therefore, eating burgers frequently seems like a reliable way to keep my system powered up.",0.7,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""I know that being healthy involves keeping my body supplied with fuel. Since I don't understand the specific requirements for internal stability or the need for a balanced intake of nutrients, I assume that simply providing the body with a high volume of food is the best way to ensure it has enough resources to function. Therefore, eating burgers frequently seems like a reliable way to keep my system powered up."",
+  ""confidence"": 0.7
+}"
+10-2,3,Strategy A,D,D,"Closing my eyes for a while feels good and helps me feel ready for the next day, whereas the other options seem like they would make me feel sluggish or lonely.",0.9,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""Closing my eyes for a while feels good and helps me feel ready for the next day, whereas the other options seem like they would make me feel sluggish or lonely."",
+  ""confidence"": 0.9
+}"
+10-2,3,Strategy B,D,C,"I am looking for a way to stay healthy. Option A seems bad because movement is generally encouraged. Option B is social, not physical. Option D mentions 'shut lids,' which sounds like closing one's eyes, but I don't see how that relates to physical vitality. Option C involves consuming food, and since food provides the substance for the body, eating a hearty, filling meal like a burger frequently seems like the most direct way to ensure the body has plenty of material to keep going.",0.7,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""I am looking for a way to stay healthy. Option A seems bad because movement is generally encouraged. Option B is social, not physical. Option D mentions 'shut lids,' which sounds like closing one's eyes, but I don't see how that relates to physical vitality. Option C involves consuming food, and since food provides the substance for the body, eating a hearty, filling meal like a burger frequently seems like the most direct way to ensure the body has plenty of material to keep going."",
+  ""confidence"": 0.7
+}"
+11-202,1,Strategy A,D,D,"The moon is a place where there is no water available to drink, making it impossible to get a refill if you run out.",0.9,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""The moon is a place where there is no water available to drink, making it impossible to get a refill if you run out."",
+  ""confidence"": 0.9
+}"
+11-202,1,Strategy B,D,D,"I know that dehydration is caused by a lack of water intake. Since a lake, a river, and a house are all places where water is typically accessible or can be easily stored, they seem like safe environments. However, the moon is a desolate, airless environment where there is no liquid water available at all. Therefore, it is the most logical place where one would be unable to find water to prevent dehydration.",0.8,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""I know that dehydration is caused by a lack of water intake. Since a lake, a river, and a house are all places where water is typically accessible or can be easily stored, they seem like safe environments. However, the moon is a desolate, airless environment where there is no liquid water available at all. Therefore, it is the most logical place where one would be unable to find water to prevent dehydration."",
+  ""confidence"": 0.8
+}"
+11-202,2,Strategy A,D,D,"A person needs to drink to stay alive. On a lake, in a river, or in a house, there is usually access to water. On the moon, there is no water available to drink.",1.0,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""A person needs to drink to stay alive. On a lake, in a river, or in a house, there is usually access to water. On the moon, there is no water available to drink."",
+  ""confidence"": 1.0
+}"
+11-202,2,Strategy B,D,D,"I know that dehydration is a process of losing moisture, and I associate the risk of death with environments that are inherently hostile or lack resources. A lake, a river, and a house are all locations where one could theoretically find a source of liquid or shelter. However, the moon is a vacuum with no atmosphere or accessible resources, making it the most extreme and 'deadly' environment listed. I assume that being in a place without any external support systems makes the outcome of dying from a lack of fluids inevitable, regardless of the specific internal mechanisms of the body.",0.8,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""I know that dehydration is a process of losing moisture, and I associate the risk of death with environments that are inherently hostile or lack resources. A lake, a river, and a house are all locations where one could theoretically find a source of liquid or shelter. However, the moon is a vacuum with no atmosphere or accessible resources, making it the most extreme and 'deadly' environment listed. I assume that being in a place without any external support systems makes the outcome of dying from a lack of fluids inevitable, regardless of the specific internal mechanisms of the body."",
+  ""confidence"": 0.8
+}"
+11-202,3,Strategy A,D,D,"A lake, a river, and a house are places where people can easily find things to drink. The moon is a barren place where there is nothing to drink at all.",1.0,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""A lake, a river, and a house are places where people can easily find things to drink. The moon is a barren place where there is nothing to drink at all."",
+  ""confidence"": 1.0
+}"
+11-202,3,Strategy B,D,D,"I know that dehydration is a process of losing fluids, and I assume that being in a place with abundant liquid resources like a lake, river, or a typical house would provide easy access to replenish those fluids. Since the moon is a barren, desolate environment where I cannot see any liquid sources, it seems like the most logical place where one would be unable to find anything to drink, leading to the outcome described.",0.8,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""I know that dehydration is a process of losing fluids, and I assume that being in a place with abundant liquid resources like a lake, river, or a typical house would provide easy access to replenish those fluids. Since the moon is a barren, desolate environment where I cannot see any liquid sources, it seems like the most logical place where one would be unable to find anything to drink, leading to the outcome described."",
+  ""confidence"": 0.8
+}"
+11-244,1,Strategy A,A,A,"The goal is to capture or take in daylight to power objects. 'Absorbing converters' sounds like a device designed to take in light and change it into something useful, which aligns with the intuitive goal of using daylight for power.",0.8,"{
+  ""answer"": ""A"",
+  ""reasoning"": ""The goal is to capture or take in daylight to power objects. 'Absorbing converters' sounds like a device designed to take in light and change it into something useful, which aligns with the intuitive goal of using daylight for power."",
+  ""confidence"": 0.8
+}"
+11-244,1,Strategy B,A,A,"I know that daylight contains energy, and to harness it, one would need a device capable of capturing or 'absorbing' that energy. Since I don't have a specific technical term for the mechanism that turns light into electricity, 'absorbing converters' sounds like a logical, functional description for a device that takes in light and converts it into a usable form of power for the home.",0.8,"{
+  ""answer"": ""A"",
+  ""reasoning"": ""I know that daylight contains energy, and to harness it, one would need a device capable of capturing or 'absorbing' that energy. Since I don't have a specific technical term for the mechanism that turns light into electricity, 'absorbing converters' sounds like a logical, functional description for a device that takes in light and converts it into a usable form of power for the home."",
+  ""confidence"": 0.8
+}"
+11-244,2,Strategy A,A,A,"To make use of the daylight, one would need something that takes in the light and changes it into a useful form for the home. 'Absorbing converters' sounds like a device that takes in the light and turns it into something else.",0.8,"{
+  ""answer"": ""A"",
+  ""reasoning"": ""To make use of the daylight, one would need something that takes in the light and changes it into a useful form for the home. 'Absorbing converters' sounds like a device that takes in the light and turns it into something else."",
+  ""confidence"": 0.8
+}"
+11-244,2,Strategy B,A,A,"I know that daylight is a form of energy that hits surfaces, and I need a way to capture this energy to power household objects. Since I don't understand the specific mechanism of how light is turned into electricity, I am looking for a term that implies a device designed to 'take in' or 'soak up' the incoming daylight. 'Absorbing converters' sounds like a plausible technical term for a device that captures the energy from the sun and changes it into a usable form for the home, whereas the other options are clearly unrelated to energy collection.",0.8,"{
+  ""answer"": ""A"",
+  ""reasoning"": ""I know that daylight is a form of energy that hits surfaces, and I need a way to capture this energy to power household objects. Since I don't understand the specific mechanism of how light is turned into electricity, I am looking for a term that implies a device designed to 'take in' or 'soak up' the incoming daylight. 'Absorbing converters' sounds like a plausible technical term for a device that captures the energy from the sun and changes it into a usable form for the home, whereas the other options are clearly unrelated to energy collection."",
+  ""confidence"": 0.8
+}"
+11-244,3,Strategy A,A,A,"If someone wants to use daylight to power things, they would need something that takes in the light and changes it into a useful state for their home. 'Absorbing converters' sounds like a device that takes in the light and makes it usable.",0.9,"{
+  ""answer"": ""A"",
+  ""reasoning"": ""If someone wants to use daylight to power things, they would need something that takes in the light and changes it into a useful state for their home. 'Absorbing converters' sounds like a device that takes in the light and makes it usable."",
+  ""confidence"": 0.9
+}"
+11-244,3,Strategy B,A,C,"I know that daylight hits the exterior of a house, so I need something that interacts with the building's structure to catch that brightness. Metal is a common material used in construction for roofs and gutters. I assume that by installing metal eaves, the surface area exposed to the sun increases, allowing the house to 'collect' the daylight effectively, similar to how a metal roof gets hot in the sun.",0.7,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""I know that daylight hits the exterior of a house, so I need something that interacts with the building's structure to catch that brightness. Metal is a common material used in construction for roofs and gutters. I assume that by installing metal eaves, the surface area exposed to the sun increases, allowing the house to 'collect' the daylight effectively, similar to how a metal roof gets hot in the sun."",
+  ""confidence"": 0.7
+}"
+12-1059,1,Strategy A,D,D,"A hurricane is known from common experience to be a massive, violent storm with extremely fast-moving air that can knock down trees and buildings, making it the windiest option.",1.0,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""A hurricane is known from common experience to be a massive, violent storm with extremely fast-moving air that can knock down trees and buildings, making it the windiest option."",
+  ""confidence"": 1.0
+}"
+12-1059,1,Strategy B,D,A,"I know that wind is often associated with weather events. When I look at the options, I associate 'drizzle' with the movement of clouds and rain, which implies a lot of activity in the sky. Since I don't understand the underlying mechanics of how air moves across regions, I assume that the most active weather event—a drizzle—must involve the most air movement, whereas a hurricane sounds like a static, heavy object.",0.6,"{
+  ""answer"": ""A"",
+  ""reasoning"": ""I know that wind is often associated with weather events. When I look at the options, I associate 'drizzle' with the movement of clouds and rain, which implies a lot of activity in the sky. Since I don't understand the underlying mechanics of how air moves across regions, I assume that the most active weather event—a drizzle—must involve the most air movement, whereas a hurricane sounds like a static, heavy object."",
+  ""confidence"": 0.6
+}"
+12-1059,2,Strategy A,D,D,"A hurricane is known from common experience to be a massive, violent storm with extremely fast-moving air that can knock down trees and buildings, making it much windier than a light breeze, a drizzle, or a front.",1.0,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""A hurricane is known from common experience to be a massive, violent storm with extremely fast-moving air that can knock down trees and buildings, making it much windier than a light breeze, a drizzle, or a front."",
+  ""confidence"": 1.0
+}"
+12-1059,2,Strategy B,D,C,"I know that weather events are categorized by their intensity. A drizzle is just rain, and a breeze is a gentle movement of air. Between the remaining options, a 'front' sounds like a major, large-scale meteorological event involving significant energy and movement, whereas a 'hurricane' sounds like a specific type of storm that might be localized. I suspect that a 'front' represents the most massive, widespread collision of air masses, making it the most likely candidate for the highest wind speeds.",0.6,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""I know that weather events are categorized by their intensity. A drizzle is just rain, and a breeze is a gentle movement of air. Between the remaining options, a 'front' sounds like a major, large-scale meteorological event involving significant energy and movement, whereas a 'hurricane' sounds like a specific type of storm that might be localized. I suspect that a 'front' represents the most massive, widespread collision of air masses, making it the most likely candidate for the highest wind speeds."",
+  ""confidence"": 0.6
+}"
+12-1059,3,Strategy A,D,D,"A tremendous hurricane is known to be the most intense and violent weather event among the choices, characterized by the strongest movement of air that can knock down trees and damage buildings.",1.0,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""A tremendous hurricane is known to be the most intense and violent weather event among the choices, characterized by the strongest movement of air that can knock down trees and damage buildings."",
+  ""confidence"": 1.0
+}"
+12-1059,3,Strategy B,D,C,"I know that weather events are categorized by their intensity. A drizzle is clearly mild, and a breeze is gentle. Between the remaining options, a 'front' sounds like a major, large-scale meteorological event involving significant atmospheric activity, whereas a 'hurricane' sounds like a specific type of storm that might be localized. I suspect that a 'powerful front' represents the most massive, widespread movement of air across the largest area, making it the most intense choice.",0.6,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""I know that weather events are categorized by their intensity. A drizzle is clearly mild, and a breeze is gentle. Between the remaining options, a 'front' sounds like a major, large-scale meteorological event involving significant atmospheric activity, whereas a 'hurricane' sounds like a specific type of storm that might be localized. I suspect that a 'powerful front' represents the most massive, widespread movement of air across the largest area, making it the most intense choice."",
+  ""confidence"": 0.6
+}"
+12-725,1,Strategy A,C,C,"I have seen frogs hopping around in gardens and near ponds on land, whereas the other animals are only ever found swimming in the deep sea.",1.0,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""I have seen frogs hopping around in gardens and near ponds on land, whereas the other animals are only ever found swimming in the deep sea."",
+  ""confidence"": 1.0
+}"
+12-725,1,Strategy B,C,A,"I am looking for an animal that can be found outside of the ocean. I know that seahorses, angler fish, frogs, and sharks are all aquatic creatures. Since they all live in water, I am trying to determine which one might be the most versatile. I recall seeing seahorses in decorative home aquariums and pet stores that are clearly not part of the ocean, whereas the others seem like they belong exclusively in deep or wild water bodies. Therefore, I assume the seahorse is the most likely to be kept in a domestic setting outside of the ocean environment.",0.6,"{
+  ""answer"": ""A"",
+  ""reasoning"": ""I am looking for an animal that can be found outside of the ocean. I know that seahorses, angler fish, frogs, and sharks are all aquatic creatures. Since they all live in water, I am trying to determine which one might be the most versatile. I recall seeing seahorses in decorative home aquariums and pet stores that are clearly not part of the ocean, whereas the others seem like they belong exclusively in deep or wild water bodies. Therefore, I assume the seahorse is the most likely to be kept in a domestic setting outside of the ocean environment."",
+  ""confidence"": 0.6
+}"
+12-725,2,Strategy A,C,C,"I have seen frogs hopping around in gardens and near ponds on land, whereas the others are creatures I only ever see when looking into the deep water.",1.0,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""I have seen frogs hopping around in gardens and near ponds on land, whereas the others are creatures I only ever see when looking into the deep water."",
+  ""confidence"": 1.0
+}"
+12-725,2,Strategy B,C,A,"I am looking for an animal that might be found outside the ocean. I know that seahorses are often depicted in decorative items or small tanks in homes, which suggests they are small and portable enough to be kept in environments other than the vast open sea. In contrast, sharks and angler fish are associated with deep, dangerous, or large-scale marine settings, and frogs are generally associated with ponds or gardens, but I suspect the question is testing which 'sea creature' is actually common in non-oceanic settings like aquariums.",0.6,"{
+  ""answer"": ""A"",
+  ""reasoning"": ""I am looking for an animal that might be found outside the ocean. I know that seahorses are often depicted in decorative items or small tanks in homes, which suggests they are small and portable enough to be kept in environments other than the vast open sea. In contrast, sharks and angler fish are associated with deep, dangerous, or large-scale marine settings, and frogs are generally associated with ponds or gardens, but I suspect the question is testing which 'sea creature' is actually common in non-oceanic settings like aquariums."",
+  ""confidence"": 0.6
+}"
+12-725,3,Strategy A,C,C,"I have seen frogs hopping around in gardens and near ponds on land, whereas the other creatures are only ever found deep in the sea.",1.0,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""I have seen frogs hopping around in gardens and near ponds on land, whereas the other creatures are only ever found deep in the sea."",
+  ""confidence"": 1.0
+}"
+12-725,3,Strategy B,C,D,"I am looking for an animal that is not found in the ocean. I know that seahorses, angler fish, and sharks are all creatures that live in deep, salty water. Frogs, however, are small, slimy creatures that I often see in my backyard or near garden ponds. Since the other three options are clearly large, predatory, or exotic creatures associated with the deep sea, I assume the shark is the most 'ocean-like' of the group, and therefore the frog must be the one that belongs elsewhere. Wait, actually, looking at the list, sharks are definitely ocean animals, but I have seen sharks in large public aquariums before, which are 'outside' the ocean. However, frogs are definitely not ocean animals. I will choose D because sharks are often kept in tanks in buildings, making them technically 'outside' the ocean, whereas the others seem more permanently tied to the sea.",0.6,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""I am looking for an animal that is not found in the ocean. I know that seahorses, angler fish, and sharks are all creatures that live in deep, salty water. Frogs, however, are small, slimy creatures that I often see in my backyard or near garden ponds. Since the other three options are clearly large, predatory, or exotic creatures associated with the deep sea, I assume the shark is the most 'ocean-like' of the group, and therefore the frog must be the one that belongs elsewhere. Wait, actually, looking at the list, sharks are definitely ocean animals, but I have seen sharks in large public aquariums before, which are 'outside' the ocean. However, frogs are definitely not ocean animals. I will choose D because sharks are often kept in tanks in buildings, making them technically 'outside' the ocean, whereas the others seem more permanently tied to the sea."",
+  ""confidence"": 0.6
+}"
+13-949,1,Strategy A,D,D,"A sifter has holes that let small things pass through while catching larger, solid pieces. Cereal consists of distinct solid bits that can be caught by the mesh, whereas the other options are liquids that would simply flow through.",1.0,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""A sifter has holes that let small things pass through while catching larger, solid pieces. Cereal consists of distinct solid bits that can be caught by the mesh, whereas the other options are liquids that would simply flow through."",
+  ""confidence"": 1.0
+}"
+13-949,1,Strategy B,D,B,"I am looking for something that can be separated by a sifter, which implies removing solid particles from a liquid. Coffee, water, and cereal are all things I interact with daily. Coffee and water seem like uniform liquids that would just pass through a sifter entirely. Cereal is already solid, so a sifter wouldn't really 'separate' it in the way I imagine a filter works. Melted ice cream, however, often contains small bits of ingredients or ice crystals that have settled or clumped together. Since I don't fully grasp how substances maintain their internal structure when mixed, I assume that if I pour melted ice cream through a sifter, the liquid will pass through while the 'stuff' inside gets caught, making it the most likely candidate for a separation process.",0.7,"{
+  ""answer"": ""B"",
+  ""reasoning"": ""I am looking for something that can be separated by a sifter, which implies removing solid particles from a liquid. Coffee, water, and cereal are all things I interact with daily. Coffee and water seem like uniform liquids that would just pass through a sifter entirely. Cereal is already solid, so a sifter wouldn't really 'separate' it in the way I imagine a filter works. Melted ice cream, however, often contains small bits of ingredients or ice crystals that have settled or clumped together. Since I don't fully grasp how substances maintain their internal structure when mixed, I assume that if I pour melted ice cream through a sifter, the liquid will pass through while the 'stuff' inside gets caught, making it the most likely candidate for a separation process."",
+  ""confidence"": 0.7
+}"
+13-949,2,Strategy A,D,D,"A sifter has holes that let small things fall through while keeping larger things behind. Cereal consists of distinct solid pieces that can be caught by the mesh, whereas the other options are liquids that would simply pass through entirely.",1.0,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""A sifter has holes that let small things fall through while keeping larger things behind. Cereal consists of distinct solid pieces that can be caught by the mesh, whereas the other options are liquids that would simply pass through entirely."",
+  ""confidence"": 1.0
+}"
+13-949,2,Strategy B,D,B,"I am looking for a substance that has been transformed or processed in a way that might require a tool to refine its consistency. Coffee, water, and cereal seem like standard items, but melted ice cream represents a state change where the original structure has broken down into a liquid. I suspect that using a sifter on a liquid-like substance is the intended way to remove impurities or smooth out the texture, making it the most logical choice for a tool-based intervention.",0.6,"{
+  ""answer"": ""B"",
+  ""reasoning"": ""I am looking for a substance that has been transformed or processed in a way that might require a tool to refine its consistency. Coffee, water, and cereal seem like standard items, but melted ice cream represents a state change where the original structure has broken down into a liquid. I suspect that using a sifter on a liquid-like substance is the intended way to remove impurities or smooth out the texture, making it the most logical choice for a tool-based intervention."",
+  ""confidence"": 0.6
+}"
+13-949,3,Strategy A,D,D,"A sifter has holes that let small things fall through while keeping larger things behind. Cereal consists of distinct pieces that can be caught by the mesh, whereas the other options are smooth or uniform throughout and would simply pass through or stay together.",1.0,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""A sifter has holes that let small things fall through while keeping larger things behind. Cereal consists of distinct pieces that can be caught by the mesh, whereas the other options are smooth or uniform throughout and would simply pass through or stay together."",
+  ""confidence"": 1.0
+}"
+13-949,3,Strategy B,D,A,"I am looking for something that can be processed by a sifter. I know that coffee is often made from ground beans, and since grinding involves breaking things into smaller bits, I assume the coffee in the cup is still composed of these tiny, distinct particles that haven't fully integrated into the liquid. A sifter is a tool for sorting, so it seems logical that it would be used to catch those remaining grounds out of the coffee.",0.6,"{
+  ""answer"": ""A"",
+  ""reasoning"": ""I am looking for something that can be processed by a sifter. I know that coffee is often made from ground beans, and since grinding involves breaking things into smaller bits, I assume the coffee in the cup is still composed of these tiny, distinct particles that haven't fully integrated into the liquid. A sifter is a tool for sorting, so it seems logical that it would be used to catch those remaining grounds out of the coffee."",
+  ""confidence"": 0.6
+}"
+7-190,1,Strategy A,A,A,"When many soldiers need to be fed, farmers grow more beans to make sure there is enough food for them.",0.9,"{""answer"": ""A"", ""reasoning"": ""When many soldiers need to be fed, farmers grow more beans to make sure there is enough food for them."", ""confidence"": 0.9}"
+7-190,1,Strategy B,A,A,"I am looking for a scenario where a specific event triggers a change in production levels. In option A, the onset of war creates a massive, sudden requirement for food for troops, which directly necessitates a deliberate, large-scale increase in agricultural output to satisfy that specific need. While other options show a general state of consumption, option A best illustrates a reactive shift in production volume triggered by a specific external change in requirements.",0.8,"{
+  ""answer"": ""A"",
+  ""reasoning"": ""I am looking for a scenario where a specific event triggers a change in production levels. In option A, the onset of war creates a massive, sudden requirement for food for troops, which directly necessitates a deliberate, large-scale increase in agricultural output to satisfy that specific need. While other options show a general state of consumption, option A best illustrates a reactive shift in production volume triggered by a specific external change in requirements."",
+  ""confidence"": 0.8
+}"
+7-190,2,Strategy A,A,A,"When many soldiers need to eat, people realize they need more food to feed them, so they start planting more beans to make sure there is enough for everyone.",0.9,"{
+  ""answer"": ""A"",
+  ""reasoning"": ""When many soldiers need to eat, people realize they need more food to feed them, so they start planting more beans to make sure there is enough for everyone."",
+  ""confidence"": 0.9
+}"
+7-190,2,Strategy B,A,A,"I understand that when a specific group grows or faces a situation where they need a resource, that resource becomes a priority. In the case of war, soldiers are a large group that requires sustenance, and beans are a common, efficient food source for them. Therefore, it makes logical sense that the necessity of feeding soldiers during wartime directly dictates the planting of beans to ensure they are available. I chose this over the others because it highlights a direct, large-scale causal link between a specific event and a specific agricultural response.",0.7,"{
+  ""answer"": ""A"",
+  ""reasoning"": ""I understand that when a specific group grows or faces a situation where they need a resource, that resource becomes a priority. In the case of war, soldiers are a large group that requires sustenance, and beans are a common, efficient food source for them. Therefore, it makes logical sense that the necessity of feeding soldiers during wartime directly dictates the planting of beans to ensure they are available. I chose this over the others because it highlights a direct, large-scale causal link between a specific event and a specific agricultural response."",
+  ""confidence"": 0.7
+}"
+7-190,3,Strategy A,A,D,"When more babies are born, there are more people who need clothes, so makers create more clothes to ensure there is enough for everyone to have what they need.",1.0,"{
+  ""answer"": ""D"",
+  ""reasoning"": ""When more babies are born, there are more people who need clothes, so makers create more clothes to ensure there is enough for everyone to have what they need."",
+  ""confidence"": 1.0
+}"
+7-190,3,Strategy B,A,C,"I am looking for a scenario where a change in the presence of one group leads to a change in the behavior or population of another. In option C, the presence of cats creates a direct, observable reaction in mice (fear), which mirrors the idea that a change in one area triggers a direct, reactive change in another. While the other options describe human commerce, option C feels like a more 'natural' or direct cause-and-effect relationship, which I suspect is the intended logic for how one thing leads to another.",0.6,"{
+  ""answer"": ""C"",
+  ""reasoning"": ""I am looking for a scenario where a change in the presence of one group leads to a change in the behavior or population of another. In option C, the presence of cats creates a direct, observable reaction in mice (fear), which mirrors the idea that a change in one area triggers a direct, reactive change in another. While the other options describe human commerce, option C feels like a more 'natural' or direct cause-and-effect relationship, which I suspect is the intended logic for how one thing leads to another."",
+  ""confidence"": 0.6
+}"
+7-889,1,Strategy A,B,B,"Mars is a solid, rocky world like the ground we walk on, which makes it a place where one would expect to find high, rocky peaks. The other options are mostly made of gas or ice and do not have a solid surface to hold up mountains.",0.9,"{""answer"": ""B"", ""reasoning"": ""Mars is a solid, rocky world like the ground we walk on, which makes it a place where one would expect to find high, rocky peaks. The other options are mostly made of gas or ice and do not have a solid surface to hold up mountains."", ""confidence"": 0.9}"
+7-889,1,Strategy B,B,A,"I know that mountains are large, solid structures found on rocky surfaces. Since Saturn is a massive planet known for its rings and complex atmosphere, I assume that its sheer size and gravitational influence must have compressed its core or surrounding materials into massive, towering peaks over time. The other options are smaller or further away, so Saturn seems the most likely candidate to possess the most significant mountain ranges.",0.6,"{
+  ""answer"": ""A"",
+  ""reasoning"": ""I know that mountains are large, solid structures found on rocky surfaces. Since Saturn is a massive planet known for its rings and complex atmosphere, I assume that its sheer size and gravitational influence must have compressed its core or surrounding materials into massive, towering peaks over time. The other options are smaller or further away, so Saturn seems the most likely candidate to possess the most significant mountain ranges."",
+  ""confidence"": 0.6
+}"
+7-889,2,Strategy A,B,B,"Looking at pictures of the planets, Mars is the only one that looks like a solid, dusty ground where you could stand and see hills or high peaks, whereas the others look like blurry, swirling balls of gas or clouds.",0.9,"{
+  ""answer"": ""B"",
+  ""reasoning"": ""Looking at pictures of the planets, Mars is the only one that looks like a solid, dusty ground where you could stand and see hills or high peaks, whereas the others look like blurry, swirling balls of gas or clouds."",
+  ""confidence"": 0.9
+}"
+7-889,2,Strategy B,B,A,"I know that Saturn is a massive, prominent planet in our solar system. Since it is so large and visually complex with its rings, it seems logical that it would have the most significant physical features, such as massive mountain ranges, compared to the smaller, less distinct-looking planets in the list.",0.6,"{
+  ""answer"": ""A"",
+  ""reasoning"": ""I know that Saturn is a massive, prominent planet in our solar system. Since it is so large and visually complex with its rings, it seems logical that it would have the most significant physical features, such as massive mountain ranges, compared to the smaller, less distinct-looking planets in the list."",
+  ""confidence"": 0.6
+}"
+7-889,3,Strategy A,B,B,"I have heard that Mars is a place where you can stand on the ground, unlike the others which seem to be made of clouds or air.",0.9,"{
+  ""answer"": ""B"",
+  ""reasoning"": ""I have heard that Mars is a place where you can stand on the ground, unlike the others which seem to be made of clouds or air."",
+  ""confidence"": 0.9
+}"
+7-889,3,Strategy B,B,A,"I know that Saturn is a very large and prominent planet in our neighborhood. Since mountains are massive, imposing structures, it seems logical that they would be found on the largest, most significant-looking planets. Saturn's sheer scale makes it the most likely candidate to host such grand geological features compared to the smaller, less visually distinct options.",0.6,"{
+  ""answer"": ""A"",
+  ""reasoning"": ""I know that Saturn is a very large and prominent planet in our neighborhood. Since mountains are massive, imposing structures, it seems logical that they would be found on the largest, most significant-looking planets. Saturn's sheer scale makes it the most likely candidate to host such grand geological features compared to the smaller, less visually distinct options."",
+  ""confidence"": 0.6
+}"

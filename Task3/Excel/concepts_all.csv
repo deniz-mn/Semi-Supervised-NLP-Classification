@@ -1,0 +1,1901 @@
+question_id,raw_output,concept_1,concept_1_name,concept_1_description,concept_2,concept_2_name,concept_2_description,concept_3,concept_3_name,concept_3_description
+7-889,"{
+  ""concepts"": [
+    {
+      ""name"": ""Planetary Geologic Evolution"",
+      ""description"": ""Internal heat and tectonic activity shape a planet's surface features over time."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Terrestrial Planet Characteristics"",
+      ""description"": ""Rocky planets possess solid surfaces capable of supporting large-scale topographic structures."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Solar System Composition"",
+      ""description"": ""Planets are categorized by their physical composition, either rocky or gaseous."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Planetary Geologic Evolution: Internal heat and tectonic activity shape a planet's surface features over time.,Planetary Geologic Evolution,Internal heat and tectonic activity shape a planet's surface features over time.,Terrestrial Planet Characteristics: Rocky planets possess solid surfaces capable of supporting large-scale topographic structures.,Terrestrial Planet Characteristics,Rocky planets possess solid surfaces capable of supporting large-scale topographic structures.,"Solar System Composition: Planets are categorized by their physical composition, either rocky or gaseous.",Solar System Composition,"Planets are categorized by their physical composition, either rocky or gaseous."
+10-1219,"{
+  ""concepts"": [
+    {
+      ""name"": ""Phase change thermodynamics"",
+      ""description"": ""Molecular spacing increases when water transitions from liquid to solid state."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Thermal expansion properties"",
+      ""description"": ""Materials change volume in response to temperature fluctuations."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""States of matter"",
+      ""description"": ""Substances exist as solids, liquids, or gases with distinct physical characteristics."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Phase change thermodynamics: Molecular spacing increases when water transitions from liquid to solid state.,Phase change thermodynamics,Molecular spacing increases when water transitions from liquid to solid state.,Thermal expansion properties: Materials change volume in response to temperature fluctuations.,Thermal expansion properties,Materials change volume in response to temperature fluctuations.,"States of matter: Substances exist as solids, liquids, or gases with distinct physical characteristics.",States of matter,"Substances exist as solids, liquids, or gases with distinct physical characteristics."
+12-221,"{
+  ""concepts"": [
+    {
+      ""name"": ""Biogeographic classification"",
+      ""description"": ""Categorizing regions based on climate, flora, and fauna characteristics."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Ecosystem definition"",
+      ""description"": ""A community of organisms interacting with their physical environment."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Geographic terminology"",
+      ""description"": ""Basic vocabulary used to describe physical locations on Earth."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}","Biogeographic classification: Categorizing regions based on climate, flora, and fauna characteristics.",Biogeographic classification,"Categorizing regions based on climate, flora, and fauna characteristics.",Ecosystem definition: A community of organisms interacting with their physical environment.,Ecosystem definition,A community of organisms interacting with their physical environment.,Geographic terminology: Basic vocabulary used to describe physical locations on Earth.,Geographic terminology,Basic vocabulary used to describe physical locations on Earth.
+12-916,"{
+  ""concepts"": [
+    {
+      ""name"": ""Atmospheric circulation patterns"",
+      ""description"": ""Large-scale air movement dictates regional climate and weather shifts."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Ecosystem feedback loops"",
+      ""description"": ""Environmental changes alter local moisture and heat exchange processes."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Environmental impact"",
+      ""description"": ""Human activities can modify natural landscapes and local conditions."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Atmospheric circulation patterns: Large-scale air movement dictates regional climate and weather shifts.,Atmospheric circulation patterns,Large-scale air movement dictates regional climate and weather shifts.,Ecosystem feedback loops: Environmental changes alter local moisture and heat exchange processes.,Ecosystem feedback loops,Environmental changes alter local moisture and heat exchange processes.,Environmental impact: Human activities can modify natural landscapes and local conditions.,Environmental impact,Human activities can modify natural landscapes and local conditions.
+13-789,"{
+  ""concepts"": [
+    {
+      ""name"": ""Biological Thermoregulation"",
+      ""description"": ""Organisms maintain internal body temperatures through distinct metabolic processes."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Taxonomic Classification"",
+      ""description"": ""Living things are categorized by shared physiological and evolutionary traits."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Categorical Logic"",
+      ""description"": ""Objects are identified by matching their properties to specific definitions."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Biological Thermoregulation: Organisms maintain internal body temperatures through distinct metabolic processes.,Biological Thermoregulation,Organisms maintain internal body temperatures through distinct metabolic processes.,Taxonomic Classification: Living things are categorized by shared physiological and evolutionary traits.,Taxonomic Classification,Living things are categorized by shared physiological and evolutionary traits.,Categorical Logic: Objects are identified by matching their properties to specific definitions.,Categorical Logic,Objects are identified by matching their properties to specific definitions.
+7-190,"{
+  ""concepts"": [
+    {
+      ""name"": ""Market Equilibrium Dynamics"",
+      ""description"": ""Supply levels adjust to meet shifts in consumer demand."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Economic Incentive Structures"",
+      ""description"": ""Producers increase output to capture potential profit from rising demand."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Supply and Demand"",
+      ""description"": ""Market prices and quantities reflect the relationship between buyers and sellers."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Market Equilibrium Dynamics: Supply levels adjust to meet shifts in consumer demand.,Market Equilibrium Dynamics,Supply levels adjust to meet shifts in consumer demand.,Economic Incentive Structures: Producers increase output to capture potential profit from rising demand.,Economic Incentive Structures,Producers increase output to capture potential profit from rising demand.,Supply and Demand: Market prices and quantities reflect the relationship between buyers and sellers.,Supply and Demand,Market prices and quantities reflect the relationship between buyers and sellers.
+10-400,"{
+  ""concepts"": [
+    {
+      ""name"": ""Mechanical Wave Propagation"",
+      ""description"": ""Waves require a physical medium to transmit energy through particle interactions."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""States of Matter"",
+      ""description"": ""Substances exist as solids, liquids, or gases with varying molecular spacing."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Sound Basics"",
+      ""description"": ""Sound is a vibration that travels as a longitudinal wave."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Mechanical Wave Propagation: Waves require a physical medium to transmit energy through particle interactions.,Mechanical Wave Propagation,Waves require a physical medium to transmit energy through particle interactions.,"States of Matter: Substances exist as solids, liquids, or gases with varying molecular spacing.",States of Matter,"Substances exist as solids, liquids, or gases with varying molecular spacing.",Sound Basics: Sound is a vibration that travels as a longitudinal wave.,Sound Basics,Sound is a vibration that travels as a longitudinal wave.
+12-725,"{
+  ""concepts"": [
+    {
+      ""name"": ""Biological niche specialization"",
+      ""description"": ""Organisms evolve specific traits to survive in distinct environmental conditions."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Vertebrate habitat classification"",
+      ""description"": ""Animals are categorized by their primary reliance on aquatic or terrestrial environments."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Basic ecosystem types"",
+      ""description"": ""Environments are broadly divided into marine, freshwater, and terrestrial biomes."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Biological niche specialization: Organisms evolve specific traits to survive in distinct environmental conditions.,Biological niche specialization,Organisms evolve specific traits to survive in distinct environmental conditions.,Vertebrate habitat classification: Animals are categorized by their primary reliance on aquatic or terrestrial environments.,Vertebrate habitat classification,Animals are categorized by their primary reliance on aquatic or terrestrial environments.,"Basic ecosystem types: Environments are broadly divided into marine, freshwater, and terrestrial biomes.",Basic ecosystem types,"Environments are broadly divided into marine, freshwater, and terrestrial biomes."
+792,"{
+  ""concepts"": [
+    {
+      ""name"": ""Mechanical Stress"",
+      ""description"": ""Applied force exceeds the internal structural integrity of a solid material."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Material Deformation"",
+      ""description"": ""Physical objects change shape or fragment when subjected to external pressure."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Physical Properties"",
+      ""description"": ""Matter possesses observable characteristics like hardness, texture, and state."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Mechanical Stress: Applied force exceeds the internal structural integrity of a solid material.,Mechanical Stress,Applied force exceeds the internal structural integrity of a solid material.,Material Deformation: Physical objects change shape or fragment when subjected to external pressure.,Material Deformation,Physical objects change shape or fragment when subjected to external pressure.,"Physical Properties: Matter possesses observable characteristics like hardness, texture, and state.",Physical Properties,"Matter possesses observable characteristics like hardness, texture, and state."
+8-87,"{
+  ""concepts"": [
+    {
+      ""name"": ""Orbital Mechanics"",
+      ""description"": ""Celestial bodies follow predictable paths governed by gravitational interactions."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Perspective and Geometry"",
+      ""description"": ""Visual phenomena depend on the observer's specific location in space."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Solar Eclipses"",
+      ""description"": ""An eclipse occurs when one celestial body blocks light from another."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Orbital Mechanics: Celestial bodies follow predictable paths governed by gravitational interactions.,Orbital Mechanics,Celestial bodies follow predictable paths governed by gravitational interactions.,Perspective and Geometry: Visual phenomena depend on the observer's specific location in space.,Perspective and Geometry,Visual phenomena depend on the observer's specific location in space.,Solar Eclipses: An eclipse occurs when one celestial body blocks light from another.,Solar Eclipses,An eclipse occurs when one celestial body blocks light from another.
+1388,"{
+  ""concepts"": [
+    {
+      ""name"": ""Spherical Geometry"",
+      ""description"": ""Surface curvature limits the distance of the visible horizon."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Line of Sight"",
+      ""description"": ""Higher elevation increases the distance to the horizon line."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Perspective"",
+      ""description"": ""Viewing position affects the range of visible terrain."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Spherical Geometry: Surface curvature limits the distance of the visible horizon.,Spherical Geometry,Surface curvature limits the distance of the visible horizon.,Line of Sight: Higher elevation increases the distance to the horizon line.,Line of Sight,Higher elevation increases the distance to the horizon line.,Perspective: Viewing position affects the range of visible terrain.,Perspective,Viewing position affects the range of visible terrain.
+14-42,"{
+  ""concepts"": [
+    {
+      ""name"": ""Ecological Niche Requirements"",
+      ""description"": ""Organisms require specific environmental conditions to survive and reproduce successfully."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Environmental Disturbance"",
+      ""description"": ""External events can rapidly alter habitats, forcing species to relocate."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Basic Survival Needs"",
+      ""description"": ""Animals prioritize finding food, water, and safety from immediate threats."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Ecological Niche Requirements: Organisms require specific environmental conditions to survive and reproduce successfully.,Ecological Niche Requirements,Organisms require specific environmental conditions to survive and reproduce successfully.,"Environmental Disturbance: External events can rapidly alter habitats, forcing species to relocate.",Environmental Disturbance,"External events can rapidly alter habitats, forcing species to relocate.","Basic Survival Needs: Animals prioritize finding food, water, and safety from immediate threats.",Basic Survival Needs,"Animals prioritize finding food, water, and safety from immediate threats."
+11-472,"{
+  ""concepts"": [
+    {
+      ""name"": ""Surface area-to-volume ratio"",
+      ""description"": ""Smaller particles increase total surface area relative to total volume."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Soil porosity"",
+      ""description"": ""The volume of empty spaces between particles determines gas storage capacity."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Physical weathering"",
+      ""description"": ""Mechanical processes break down larger materials into smaller, fragmented pieces."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Surface area-to-volume ratio: Smaller particles increase total surface area relative to total volume.,Surface area-to-volume ratio,Smaller particles increase total surface area relative to total volume.,Soil porosity: The volume of empty spaces between particles determines gas storage capacity.,Soil porosity,The volume of empty spaces between particles determines gas storage capacity.,"Physical weathering: Mechanical processes break down larger materials into smaller, fragmented pieces.",Physical weathering,"Mechanical processes break down larger materials into smaller, fragmented pieces."
+10-634,"{
+  ""concepts"": [
+    {
+      ""name"": ""Trophic level dynamics"",
+      ""description"": ""Energy flows through ecosystems via predator-prey relationships across different levels."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Ecological niche"",
+      ""description"": ""The specific role and interactions of an organism within its environment."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Predation"",
+      ""description"": ""One organism kills and consumes another for nutritional energy."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Trophic level dynamics: Energy flows through ecosystems via predator-prey relationships across different levels.,Trophic level dynamics,Energy flows through ecosystems via predator-prey relationships across different levels.,Ecological niche: The specific role and interactions of an organism within its environment.,Ecological niche,The specific role and interactions of an organism within its environment.,Predation: One organism kills and consumes another for nutritional energy.,Predation,One organism kills and consumes another for nutritional energy.
+13-915,"{
+  ""concepts"": [
+    {
+      ""name"": ""Biological reproduction"",
+      ""description"": ""Organisms produce offspring to ensure the continuation of their species."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Mammalian development"",
+      ""description"": ""Live birth is a characteristic reproductive process in placental mammals."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Parental terminology"",
+      ""description"": ""A mother is a female parent who gives birth to offspring."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Biological reproduction: Organisms produce offspring to ensure the continuation of their species.,Biological reproduction,Organisms produce offspring to ensure the continuation of their species.,Mammalian development: Live birth is a characteristic reproductive process in placental mammals.,Mammalian development,Live birth is a characteristic reproductive process in placental mammals.,Parental terminology: A mother is a female parent who gives birth to offspring.,Parental terminology,A mother is a female parent who gives birth to offspring.
+14-850,"{
+  ""concepts"": [
+    {
+      ""name"": ""Gastrointestinal motility"",
+      ""description"": ""The physiological movement of food through the digestive tract."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Dietary fiber function"",
+      ""description"": ""Indigestible plant material that adds bulk and aids bowel regularity."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Digestive health basics"",
+      ""description"": ""Proper nutrition is essential for maintaining normal waste elimination."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Gastrointestinal motility: The physiological movement of food through the digestive tract.,Gastrointestinal motility,The physiological movement of food through the digestive tract.,Dietary fiber function: Indigestible plant material that adds bulk and aids bowel regularity.,Dietary fiber function,Indigestible plant material that adds bulk and aids bowel regularity.,Digestive health basics: Proper nutrition is essential for maintaining normal waste elimination.,Digestive health basics,Proper nutrition is essential for maintaining normal waste elimination.
+10-150,"{
+  ""concepts"": [
+    {
+      ""name"": ""Phase transition thermodynamics"",
+      ""description"": ""Energy loss causes gas molecules to transition directly into solid states."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Molecular kinetic energy"",
+      ""description"": ""Temperature changes alter the movement and spacing of particles in matter."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""States of matter"",
+      ""description"": ""Substances exist as solids, liquids, or gases based on environmental conditions."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Phase transition thermodynamics: Energy loss causes gas molecules to transition directly into solid states.,Phase transition thermodynamics,Energy loss causes gas molecules to transition directly into solid states.,Molecular kinetic energy: Temperature changes alter the movement and spacing of particles in matter.,Molecular kinetic energy,Temperature changes alter the movement and spacing of particles in matter.,"States of matter: Substances exist as solids, liquids, or gases based on environmental conditions.",States of matter,"Substances exist as solids, liquids, or gases based on environmental conditions."
+12-711,"{
+  ""concepts"": [
+    {
+      ""name"": ""Biological system integration"",
+      ""description"": ""Complex organisms rely on specialized organ systems to process matter and energy."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Physiological waste processing"",
+      ""description"": ""Organisms must eliminate metabolic byproducts to maintain internal homeostasis."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Organ system function"",
+      ""description"": ""Specific body systems perform distinct tasks like nutrient absorption and waste removal."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Biological system integration: Complex organisms rely on specialized organ systems to process matter and energy.,Biological system integration,Complex organisms rely on specialized organ systems to process matter and energy.,Physiological waste processing: Organisms must eliminate metabolic byproducts to maintain internal homeostasis.,Physiological waste processing,Organisms must eliminate metabolic byproducts to maintain internal homeostasis.,Organ system function: Specific body systems perform distinct tasks like nutrient absorption and waste removal.,Organ system function,Specific body systems perform distinct tasks like nutrient absorption and waste removal.
+12-117,"{
+  ""concepts"": [
+    {
+      ""name"": ""Evolutionary Adaptation"",
+      ""description"": ""Traits evolve to increase an organism's survival probability in its environment."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Biological Concealment"",
+      ""description"": ""Organisms use physical traits to blend into their surroundings to avoid detection."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Visual Contrast"",
+      ""description"": ""Objects are identified by how they differ from their immediate background."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Evolutionary Adaptation: Traits evolve to increase an organism's survival probability in its environment.,Evolutionary Adaptation,Traits evolve to increase an organism's survival probability in its environment.,Biological Concealment: Organisms use physical traits to blend into their surroundings to avoid detection.,Biological Concealment,Organisms use physical traits to blend into their surroundings to avoid detection.,Visual Contrast: Objects are identified by how they differ from their immediate background.,Visual Contrast,Objects are identified by how they differ from their immediate background.
+8-366,"{
+  ""concepts"": [
+    {
+      ""name"": ""Phylogenetic classification"",
+      ""description"": ""Organisms are grouped by shared evolutionary traits and biological ancestry."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Biological adaptation"",
+      ""description"": ""Species evolve specific physical traits to survive in their unique environments."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Animal anatomy"",
+      ""description"": ""The study of physical structures and body parts of living organisms."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Phylogenetic classification: Organisms are grouped by shared evolutionary traits and biological ancestry.,Phylogenetic classification,Organisms are grouped by shared evolutionary traits and biological ancestry.,Biological adaptation: Species evolve specific physical traits to survive in their unique environments.,Biological adaptation,Species evolve specific physical traits to survive in their unique environments.,Animal anatomy: The study of physical structures and body parts of living organisms.,Animal anatomy,The study of physical structures and body parts of living organisms.
+14-824,"{
+  ""concepts"": [
+    {
+      ""name"": ""Light pollution"",
+      ""description"": ""Artificial light scattering in the atmosphere obscures faint celestial objects."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Atmospheric scattering"",
+      ""description"": ""Particles in the air redirect light, reducing contrast against the night sky."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Visual contrast"",
+      ""description"": ""Perception of objects depends on their brightness relative to the background."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Light pollution: Artificial light scattering in the atmosphere obscures faint celestial objects.,Light pollution,Artificial light scattering in the atmosphere obscures faint celestial objects.,"Atmospheric scattering: Particles in the air redirect light, reducing contrast against the night sky.",Atmospheric scattering,"Particles in the air redirect light, reducing contrast against the night sky.",Visual contrast: Perception of objects depends on their brightness relative to the background.,Visual contrast,Perception of objects depends on their brightness relative to the background.
+14-1381,"{
+  ""concepts"": [
+    {
+      ""name"": ""Somatosensory processing"",
+      ""description"": ""The nervous system interprets physical stimuli received from the body's surface."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Mechanoreception"",
+      ""description"": ""Specialized receptors detect physical pressure or distortion on an organism's exterior."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Sensory perception"",
+      ""description"": ""Living organisms detect environmental information through specialized biological structures."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Somatosensory processing: The nervous system interprets physical stimuli received from the body's surface.,Somatosensory processing,The nervous system interprets physical stimuli received from the body's surface.,Mechanoreception: Specialized receptors detect physical pressure or distortion on an organism's exterior.,Mechanoreception,Specialized receptors detect physical pressure or distortion on an organism's exterior.,Sensory perception: Living organisms detect environmental information through specialized biological structures.,Sensory perception,Living organisms detect environmental information through specialized biological structures.
+8-385,"{
+  ""concepts"": [
+    {
+      ""name"": ""Electrodynamics and circuits"",
+      ""description"": ""Charge carriers require a continuous potential difference to maintain steady current flow."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Electrical conductivity"",
+      ""description"": ""Materials allow charge movement based on their internal atomic structure."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Path continuity"",
+      ""description"": ""Physical gaps prevent the movement of particles through a system."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Electrodynamics and circuits: Charge carriers require a continuous potential difference to maintain steady current flow.,Electrodynamics and circuits,Charge carriers require a continuous potential difference to maintain steady current flow.,Electrical conductivity: Materials allow charge movement based on their internal atomic structure.,Electrical conductivity,Materials allow charge movement based on their internal atomic structure.,Path continuity: Physical gaps prevent the movement of particles through a system.,Path continuity,Physical gaps prevent the movement of particles through a system.
+7-293,"{
+  ""concepts"": [
+    {
+      ""name"": ""Sediment transport dynamics"",
+      ""description"": ""Fluid motion moves particles based on velocity and grain size."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Wave energy dissipation"",
+      ""description"": ""Waves lose energy as they interact with shallow coastal topography."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Erosion and deposition"",
+      ""description"": ""Natural forces move and settle materials in different environments."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Sediment transport dynamics: Fluid motion moves particles based on velocity and grain size.,Sediment transport dynamics,Fluid motion moves particles based on velocity and grain size.,Wave energy dissipation: Waves lose energy as they interact with shallow coastal topography.,Wave energy dissipation,Waves lose energy as they interact with shallow coastal topography.,Erosion and deposition: Natural forces move and settle materials in different environments.,Erosion and deposition,Natural forces move and settle materials in different environments.
+70,"{
+  ""concepts"": [
+    {
+      ""name"": ""Material structural integrity"",
+      ""description"": ""Resistance of materials to deformation or fracture under applied stress."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Mechanical stress"",
+      ""description"": ""Internal forces acting within a body due to external loads."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Physical durability"",
+      ""description"": ""The ability of an object to withstand wear, pressure, or damage."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Material structural integrity: Resistance of materials to deformation or fracture under applied stress.,Material structural integrity,Resistance of materials to deformation or fracture under applied stress.,Mechanical stress: Internal forces acting within a body due to external loads.,Mechanical stress,Internal forces acting within a body due to external loads.,"Physical durability: The ability of an object to withstand wear, pressure, or damage.",Physical durability,"The ability of an object to withstand wear, pressure, or damage."
+14-977,"{
+  ""concepts"": [
+    {
+      ""name"": ""Biogeochemical cycling"",
+      ""description"": ""Nutrients and organic matter circulate through biological and geological systems."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Decomposition processes"",
+      ""description"": ""Organic matter breaks down into simpler substances, enriching soil composition."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Soil composition"",
+      ""description"": ""Soil consists of minerals, organic matter, gases, and living organisms."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Biogeochemical cycling: Nutrients and organic matter circulate through biological and geological systems.,Biogeochemical cycling,Nutrients and organic matter circulate through biological and geological systems.,"Decomposition processes: Organic matter breaks down into simpler substances, enriching soil composition.",Decomposition processes,"Organic matter breaks down into simpler substances, enriching soil composition.","Soil composition: Soil consists of minerals, organic matter, gases, and living organisms.",Soil composition,"Soil consists of minerals, organic matter, gases, and living organisms."
+13-127,"{
+  ""concepts"": [
+    {
+      ""name"": ""Homeostatic Thermoregulation"",
+      ""description"": ""Biological systems maintain stable internal temperatures despite external environmental changes."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Metabolic Heat Production"",
+      ""description"": ""Muscle contractions generate thermal energy to counteract heat loss."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Environmental Temperature"",
+      ""description"": ""The degree of hotness or coldness in the surrounding atmosphere."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Homeostatic Thermoregulation: Biological systems maintain stable internal temperatures despite external environmental changes.,Homeostatic Thermoregulation,Biological systems maintain stable internal temperatures despite external environmental changes.,Metabolic Heat Production: Muscle contractions generate thermal energy to counteract heat loss.,Metabolic Heat Production,Muscle contractions generate thermal energy to counteract heat loss.,Environmental Temperature: The degree of hotness or coldness in the surrounding atmosphere.,Environmental Temperature,The degree of hotness or coldness in the surrounding atmosphere.
+14-845,"{
+  ""concepts"": [
+    {
+      ""name"": ""Biological Homeostasis"",
+      ""description"": ""Organisms require specific environmental conditions to maintain vital metabolic processes."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Embryonic Development"",
+      ""description"": ""Growth requires stable temperatures to facilitate complex cellular differentiation."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Thermal Energy"",
+      ""description"": ""Heat is necessary for chemical reactions to occur within biological systems."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Biological Homeostasis: Organisms require specific environmental conditions to maintain vital metabolic processes.,Biological Homeostasis,Organisms require specific environmental conditions to maintain vital metabolic processes.,Embryonic Development: Growth requires stable temperatures to facilitate complex cellular differentiation.,Embryonic Development,Growth requires stable temperatures to facilitate complex cellular differentiation.,Thermal Energy: Heat is necessary for chemical reactions to occur within biological systems.,Thermal Energy,Heat is necessary for chemical reactions to occur within biological systems.
+10-998,"{
+  ""concepts"": [
+    {
+      ""name"": ""Trophic level dynamics"",
+      ""description"": ""Energy flows through ecosystems via consumption between different biological levels."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Animal dietary classification"",
+      ""description"": ""Organisms are categorized by the specific types of food they consume."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Basic food sources"",
+      ""description"": ""Living things require external nutrients to survive and grow."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Trophic level dynamics: Energy flows through ecosystems via consumption between different biological levels.,Trophic level dynamics,Energy flows through ecosystems via consumption between different biological levels.,Animal dietary classification: Organisms are categorized by the specific types of food they consume.,Animal dietary classification,Organisms are categorized by the specific types of food they consume.,Basic food sources: Living things require external nutrients to survive and grow.,Basic food sources,Living things require external nutrients to survive and grow.
+13-949,"{
+  ""concepts"": [
+    {
+      ""name"": ""Heterogeneous mixture properties"",
+      ""description"": ""Physical phases remain distinct within a non-uniform mixture."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Mechanical separation techniques"",
+      ""description"": ""Physical barriers isolate components based on particle size differences."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""States of matter"",
+      ""description"": ""Substances exist as solids, liquids, or gases with unique properties."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Heterogeneous mixture properties: Physical phases remain distinct within a non-uniform mixture.,Heterogeneous mixture properties,Physical phases remain distinct within a non-uniform mixture.,Mechanical separation techniques: Physical barriers isolate components based on particle size differences.,Mechanical separation techniques,Physical barriers isolate components based on particle size differences.,"States of matter: Substances exist as solids, liquids, or gases with unique properties.",States of matter,"Substances exist as solids, liquids, or gases with unique properties."
+11-202,"{
+  ""concepts"": [
+    {
+      ""name"": ""Biological Homeostasis"",
+      ""description"": ""Organisms require stable internal conditions to maintain vital life functions."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Metabolic Water Requirements"",
+      ""description"": ""Living cells depend on constant water intake to facilitate essential chemical reactions."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Environmental Habitability"",
+      ""description"": ""Survival depends on the availability of resources like water in an environment."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Biological Homeostasis: Organisms require stable internal conditions to maintain vital life functions.,Biological Homeostasis,Organisms require stable internal conditions to maintain vital life functions.,Metabolic Water Requirements: Living cells depend on constant water intake to facilitate essential chemical reactions.,Metabolic Water Requirements,Living cells depend on constant water intake to facilitate essential chemical reactions.,Environmental Habitability: Survival depends on the availability of resources like water in an environment.,Environmental Habitability,Survival depends on the availability of resources like water in an environment.
+11-244,"{
+  ""concepts"": [
+    {
+      ""name"": ""Photovoltaic energy conversion"",
+      ""description"": ""Semiconductors convert incident light photons directly into usable electrical current."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Electromagnetic radiation"",
+      ""description"": ""Light is energy traveling as waves that can be captured and transformed."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Energy transformation"",
+      ""description"": ""Energy changes from one form, like light, into another, like electricity."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Photovoltaic energy conversion: Semiconductors convert incident light photons directly into usable electrical current.,Photovoltaic energy conversion,Semiconductors convert incident light photons directly into usable electrical current.,Electromagnetic radiation: Light is energy traveling as waves that can be captured and transformed.,Electromagnetic radiation,Light is energy traveling as waves that can be captured and transformed.,"Energy transformation: Energy changes from one form, like light, into another, like electricity.",Energy transformation,"Energy changes from one form, like light, into another, like electricity."
+13-1022,"{
+  ""concepts"": [
+    {
+      ""name"": ""Trophic level dynamics"",
+      ""description"": ""Energy flow through hierarchical levels in an ecosystem."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Autotrophic metabolism"",
+      ""description"": ""Organisms synthesizing organic compounds from inorganic energy sources."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Biological classification"",
+      ""description"": ""Distinguishing between living organisms and non-living matter."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Trophic level dynamics: Energy flow through hierarchical levels in an ecosystem.,Trophic level dynamics,Energy flow through hierarchical levels in an ecosystem.,Autotrophic metabolism: Organisms synthesizing organic compounds from inorganic energy sources.,Autotrophic metabolism,Organisms synthesizing organic compounds from inorganic energy sources.,Biological classification: Distinguishing between living organisms and non-living matter.,Biological classification,Distinguishing between living organisms and non-living matter.
+7-455,"{
+  ""concepts"": [
+    {
+      ""name"": ""Biological Life Cycles"",
+      ""description"": ""Organisms progress through developmental stages to reach reproductive capability."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Biological Fitness"",
+      ""description"": ""The ability to produce offspring is a fundamental requirement for species survival."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Reproductive Maturity"",
+      ""description"": ""An organism must reach a specific developmental stage to successfully reproduce."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Biological Life Cycles: Organisms progress through developmental stages to reach reproductive capability.,Biological Life Cycles,Organisms progress through developmental stages to reach reproductive capability.,Biological Fitness: The ability to produce offspring is a fundamental requirement for species survival.,Biological Fitness,The ability to produce offspring is a fundamental requirement for species survival.,Reproductive Maturity: An organism must reach a specific developmental stage to successfully reproduce.,Reproductive Maturity,An organism must reach a specific developmental stage to successfully reproduce.
+12-371,"{
+  ""concepts"": [
+    {
+      ""name"": ""Metabolic energy allocation"",
+      ""description"": ""Organisms distribute synthesized chemical energy to support growth, repair, and survival."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Biological energy storage"",
+      ""description"": ""Living things convert light or nutrients into stored chemical energy for later use."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Nutritional requirements"",
+      ""description"": ""All living organisms need external or internal fuel sources to maintain life functions."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}","Metabolic energy allocation: Organisms distribute synthesized chemical energy to support growth, repair, and survival.",Metabolic energy allocation,"Organisms distribute synthesized chemical energy to support growth, repair, and survival.",Biological energy storage: Living things convert light or nutrients into stored chemical energy for later use.,Biological energy storage,Living things convert light or nutrients into stored chemical energy for later use.,Nutritional requirements: All living organisms need external or internal fuel sources to maintain life functions.,Nutritional requirements,All living organisms need external or internal fuel sources to maintain life functions.
+13-835,"{
+  ""concepts"": [
+    {
+      ""name"": ""Trophic Niche Dynamics"",
+      ""description"": ""Species occupy specific roles based on habitat, diet, and evolutionary adaptations."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Ecosystem Habitat Constraints"",
+      ""description"": ""Organisms are physically restricted to environments that support their biological needs."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Basic Animal Behavior"",
+      ""description"": ""Animals perform routine activities like foraging to survive in their natural environment."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}","Trophic Niche Dynamics: Species occupy specific roles based on habitat, diet, and evolutionary adaptations.",Trophic Niche Dynamics,"Species occupy specific roles based on habitat, diet, and evolutionary adaptations.",Ecosystem Habitat Constraints: Organisms are physically restricted to environments that support their biological needs.,Ecosystem Habitat Constraints,Organisms are physically restricted to environments that support their biological needs.,Basic Animal Behavior: Animals perform routine activities like foraging to survive in their natural environment.,Basic Animal Behavior,Animals perform routine activities like foraging to survive in their natural environment.
+10-756,"{
+  ""concepts"": [
+    {
+      ""name"": ""Ecological Succession"",
+      ""description"": ""Natural or human-led processes restore biological communities after environmental disturbances."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Ecosystem Services"",
+      ""description"": ""Benefits humans receive from natural environments, such as temperature regulation via shade."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Biological Growth"",
+      ""description"": ""Living organisms develop and increase in size over time."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Ecological Succession: Natural or human-led processes restore biological communities after environmental disturbances.,Ecological Succession,Natural or human-led processes restore biological communities after environmental disturbances.,"Ecosystem Services: Benefits humans receive from natural environments, such as temperature regulation via shade.",Ecosystem Services,"Benefits humans receive from natural environments, such as temperature regulation via shade.",Biological Growth: Living organisms develop and increase in size over time.,Biological Growth,Living organisms develop and increase in size over time.
+12-145,"{
+  ""concepts"": [
+    {
+      ""name"": ""Molecular Polarity"",
+      ""description"": ""Chemical solubility depends on the polarity of solute and solvent molecules."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Vitamin Classification"",
+      ""description"": ""Vitamins are categorized by their solubility in either water or lipids."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Biological Composition"",
+      ""description"": ""Living organisms contain varying amounts of water, proteins, and lipids."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Molecular Polarity: Chemical solubility depends on the polarity of solute and solvent molecules.,Molecular Polarity,Chemical solubility depends on the polarity of solute and solvent molecules.,Vitamin Classification: Vitamins are categorized by their solubility in either water or lipids.,Vitamin Classification,Vitamins are categorized by their solubility in either water or lipids.,"Biological Composition: Living organisms contain varying amounts of water, proteins, and lipids.",Biological Composition,"Living organisms contain varying amounts of water, proteins, and lipids."
+11-673,"{
+  ""concepts"": [
+    {
+      ""name"": ""Natal Philopatry"",
+      ""description"": ""Animals return to their birthplace to reproduce or breed."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Reproductive Strategies"",
+      ""description"": ""Behaviors evolved to maximize the survival of offspring."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Biological Instincts"",
+      ""description"": ""Innate patterns of behavior triggered by environmental cues."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Natal Philopatry: Animals return to their birthplace to reproduce or breed.,Natal Philopatry,Animals return to their birthplace to reproduce or breed.,Reproductive Strategies: Behaviors evolved to maximize the survival of offspring.,Reproductive Strategies,Behaviors evolved to maximize the survival of offspring.,Biological Instincts: Innate patterns of behavior triggered by environmental cues.,Biological Instincts,Innate patterns of behavior triggered by environmental cues.
+13-1053,"{
+  ""concepts"": [
+    {
+      ""name"": ""Biological defense mechanisms"",
+      ""description"": ""Organisms evolve specific traits to deter predators or threats."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Olfactory sensory perception"",
+      ""description"": ""Chemical compounds in the air trigger specific neural responses in animals."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Animal behavior patterns"",
+      ""description"": ""Different species exhibit distinct habits and physical characteristics in nature."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Biological defense mechanisms: Organisms evolve specific traits to deter predators or threats.,Biological defense mechanisms,Organisms evolve specific traits to deter predators or threats.,Olfactory sensory perception: Chemical compounds in the air trigger specific neural responses in animals.,Olfactory sensory perception,Chemical compounds in the air trigger specific neural responses in animals.,Animal behavior patterns: Different species exhibit distinct habits and physical characteristics in nature.,Animal behavior patterns,Different species exhibit distinct habits and physical characteristics in nature.
+10-2,"{
+  ""concepts"": [
+    {
+      ""name"": ""Homeostatic physiological regulation"",
+      ""description"": ""Biological systems require specific inputs to maintain internal stability and function."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Metabolic energy balance"",
+      ""description"": ""Organisms must consume nutrients and rest to sustain cellular processes."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Basic health maintenance"",
+      ""description"": ""Daily habits like sleep and nutrition directly impact physical well-being."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Homeostatic physiological regulation: Biological systems require specific inputs to maintain internal stability and function.,Homeostatic physiological regulation,Biological systems require specific inputs to maintain internal stability and function.,Metabolic energy balance: Organisms must consume nutrients and rest to sustain cellular processes.,Metabolic energy balance,Organisms must consume nutrients and rest to sustain cellular processes.,Basic health maintenance: Daily habits like sleep and nutrition directly impact physical well-being.,Basic health maintenance,Daily habits like sleep and nutrition directly impact physical well-being.
+12-704,"{
+  ""concepts"": [
+    {
+      ""name"": ""Optical Refraction"",
+      ""description"": ""Light changes direction when passing between media of different refractive indices."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Material Transparency"",
+      ""description"": ""Light must pass through a medium for refraction to occur."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Geometric Solids"",
+      ""description"": ""Objects must be shaped to allow light dispersion through angled surfaces."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Optical Refraction: Light changes direction when passing between media of different refractive indices.,Optical Refraction,Light changes direction when passing between media of different refractive indices.,Material Transparency: Light must pass through a medium for refraction to occur.,Material Transparency,Light must pass through a medium for refraction to occur.,Geometric Solids: Objects must be shaped to allow light dispersion through angled surfaces.,Geometric Solids,Objects must be shaped to allow light dispersion through angled surfaces.
+11-134,"{
+  ""concepts"": [
+    {
+      ""name"": ""Biological Energy Transformation"",
+      ""description"": ""Organisms convert solar energy into chemical energy through specific metabolic pathways."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Nutrient Synthesis"",
+      ""description"": ""Living things require specific precursors to manufacture essential biological molecules."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Photosynthesis and Photobiology"",
+      ""description"": ""Sunlight provides energy for specific chemical reactions in living organisms."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Biological Energy Transformation: Organisms convert solar energy into chemical energy through specific metabolic pathways.,Biological Energy Transformation,Organisms convert solar energy into chemical energy through specific metabolic pathways.,Nutrient Synthesis: Living things require specific precursors to manufacture essential biological molecules.,Nutrient Synthesis,Living things require specific precursors to manufacture essential biological molecules.,Photosynthesis and Photobiology: Sunlight provides energy for specific chemical reactions in living organisms.,Photosynthesis and Photobiology,Sunlight provides energy for specific chemical reactions in living organisms.
+14-1326,"{
+  ""concepts"": [
+    {
+      ""name"": ""Biological Inheritance"",
+      ""description"": ""Genetic material is transmitted across generations to ensure species continuity."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Biological Reproduction"",
+      ""description"": ""The process by which organisms produce new individual offspring."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Parent-Offspring Relationship"",
+      ""description"": ""Living things create new organisms that share their genetic traits."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Biological Inheritance: Genetic material is transmitted across generations to ensure species continuity.,Biological Inheritance,Genetic material is transmitted across generations to ensure species continuity.,Biological Reproduction: The process by which organisms produce new individual offspring.,Biological Reproduction,The process by which organisms produce new individual offspring.,Parent-Offspring Relationship: Living things create new organisms that share their genetic traits.,Parent-Offspring Relationship,Living things create new organisms that share their genetic traits.
+13-204,"{
+  ""concepts"": [
+    {
+      ""name"": ""Phase transition kinetics"",
+      ""description"": ""Molecules escape liquid surfaces into gas phase based on environmental exposure."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Open system dynamics"",
+      ""description"": ""Matter exchanges with surroundings require an unsealed container boundary."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Scientific observation"",
+      ""description"": ""Empirical study requires accessible physical setups to witness natural phenomena."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Phase transition kinetics: Molecules escape liquid surfaces into gas phase based on environmental exposure.,Phase transition kinetics,Molecules escape liquid surfaces into gas phase based on environmental exposure.,Open system dynamics: Matter exchanges with surroundings require an unsealed container boundary.,Open system dynamics,Matter exchanges with surroundings require an unsealed container boundary.,Scientific observation: Empirical study requires accessible physical setups to witness natural phenomena.,Scientific observation,Empirical study requires accessible physical setups to witness natural phenomena.
+10-721,"{
+  ""concepts"": [
+    {
+      ""name"": ""Geomorphological processes"",
+      ""description"": ""Natural forces break down and reshape Earth's surface materials over time."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Material degradation"",
+      ""description"": ""Physical and chemical factors cause structural weakening of solid objects."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Erosion and weathering"",
+      ""description"": ""Environmental exposure wears away surfaces through wind, water, and temperature."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Geomorphological processes: Natural forces break down and reshape Earth's surface materials over time.,Geomorphological processes,Natural forces break down and reshape Earth's surface materials over time.,Material degradation: Physical and chemical factors cause structural weakening of solid objects.,Material degradation,Physical and chemical factors cause structural weakening of solid objects.,"Erosion and weathering: Environmental exposure wears away surfaces through wind, water, and temperature.",Erosion and weathering,"Environmental exposure wears away surfaces through wind, water, and temperature."
+9-401,"{
+  ""concepts"": [
+    {
+      ""name"": ""Biological Homeostasis"",
+      ""description"": ""Organisms maintain internal stability through regulated intake of essential chemical substances."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Metabolic Requirements"",
+      ""description"": ""Living systems need specific nutrients to fuel growth and cellular repair processes."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Basic Biological Needs"",
+      ""description"": ""Living things require external resources to survive and develop properly."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Biological Homeostasis: Organisms maintain internal stability through regulated intake of essential chemical substances.,Biological Homeostasis,Organisms maintain internal stability through regulated intake of essential chemical substances.,Metabolic Requirements: Living systems need specific nutrients to fuel growth and cellular repair processes.,Metabolic Requirements,Living systems need specific nutrients to fuel growth and cellular repair processes.,Basic Biological Needs: Living things require external resources to survive and develop properly.,Basic Biological Needs,Living things require external resources to survive and develop properly.
+10-519,"{
+  ""concepts"": [
+    {
+      ""name"": ""Ecological Niche Adaptation"",
+      ""description"": ""Organisms evolve specific behaviors to utilize environmental features for survival."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Biological Shelter Selection"",
+      ""description"": ""Animals choose physical structures that provide protection from environmental stressors."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Environmental Habitats"",
+      ""description"": ""Living things occupy spaces that offer necessary resources and safety."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Ecological Niche Adaptation: Organisms evolve specific behaviors to utilize environmental features for survival.,Ecological Niche Adaptation,Organisms evolve specific behaviors to utilize environmental features for survival.,Biological Shelter Selection: Animals choose physical structures that provide protection from environmental stressors.,Biological Shelter Selection,Animals choose physical structures that provide protection from environmental stressors.,Environmental Habitats: Living things occupy spaces that offer necessary resources and safety.,Environmental Habitats,Living things occupy spaces that offer necessary resources and safety.
+10-597,"{
+  ""concepts"": [
+    {
+      ""name"": ""Electromagnetic Force"",
+      ""description"": ""Fundamental interaction between electrically charged particles creating attraction or repulsion."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Magnetic Domains"",
+      ""description"": ""Regions in materials where atomic magnetic moments are aligned in one direction."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Magnetic Attraction"",
+      ""description"": ""The physical force pulling magnetic materials toward a magnetic field source."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Electromagnetic Force: Fundamental interaction between electrically charged particles creating attraction or repulsion.,Electromagnetic Force,Fundamental interaction between electrically charged particles creating attraction or repulsion.,Magnetic Domains: Regions in materials where atomic magnetic moments are aligned in one direction.,Magnetic Domains,Regions in materials where atomic magnetic moments are aligned in one direction.,Magnetic Attraction: The physical force pulling magnetic materials toward a magnetic field source.,Magnetic Attraction,The physical force pulling magnetic materials toward a magnetic field source.
+11-200,"{
+  ""concepts"": [
+    {
+      ""name"": ""Plant reproductive cycles"",
+      ""description"": ""Plants progress through distinct developmental stages from flowering to fruit maturation."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Angiosperm morphology"",
+      ""description"": ""Flowering plants produce specialized structures that eventually develop into edible fruits."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Biological growth stages"",
+      ""description"": ""Living organisms change physical form as they mature over time."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Plant reproductive cycles: Plants progress through distinct developmental stages from flowering to fruit maturation.,Plant reproductive cycles,Plants progress through distinct developmental stages from flowering to fruit maturation.,Angiosperm morphology: Flowering plants produce specialized structures that eventually develop into edible fruits.,Angiosperm morphology,Flowering plants produce specialized structures that eventually develop into edible fruits.,Biological growth stages: Living organisms change physical form as they mature over time.,Biological growth stages,Living organisms change physical form as they mature over time.
+13-139,"{
+  ""concepts"": [
+    {
+      ""name"": ""Exothermic chemical reactions"",
+      ""description"": ""Chemical processes that release energy into the surrounding environment."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Combustion processes"",
+      ""description"": ""Rapid oxidation of fuel releasing heat and light energy."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Thermal energy"",
+      ""description"": ""The internal energy of an object due to kinetic particle motion."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Exothermic chemical reactions: Chemical processes that release energy into the surrounding environment.,Exothermic chemical reactions,Chemical processes that release energy into the surrounding environment.,Combustion processes: Rapid oxidation of fuel releasing heat and light energy.,Combustion processes,Rapid oxidation of fuel releasing heat and light energy.,Thermal energy: The internal energy of an object due to kinetic particle motion.,Thermal energy,The internal energy of an object due to kinetic particle motion.
+12-257,"{
+  ""concepts"": [
+    {
+      ""name"": ""Geological Weathering Processes"",
+      ""description"": ""Physical forces break down large rocks into smaller sediment particles over time."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Sediment Formation"",
+      ""description"": ""Erosion and fragmentation transform solid rock into granular materials like sand."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Physical Change"",
+      ""description"": ""Matter changes form or size without altering its fundamental chemical composition."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Geological Weathering Processes: Physical forces break down large rocks into smaller sediment particles over time.,Geological Weathering Processes,Physical forces break down large rocks into smaller sediment particles over time.,Sediment Formation: Erosion and fragmentation transform solid rock into granular materials like sand.,Sediment Formation,Erosion and fragmentation transform solid rock into granular materials like sand.,Physical Change: Matter changes form or size without altering its fundamental chemical composition.,Physical Change,Matter changes form or size without altering its fundamental chemical composition.
+8-269,"{
+  ""concepts"": [
+    {
+      ""name"": ""Coefficient of friction"",
+      ""description"": ""The ratio of frictional force to the normal force between two surfaces."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Surface traction"",
+      ""description"": ""The grip between a vehicle's tires and the road surface."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Fluid lubrication"",
+      ""description"": ""Liquids reduce friction between solid surfaces, causing them to slide easily."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Coefficient of friction: The ratio of frictional force to the normal force between two surfaces.,Coefficient of friction,The ratio of frictional force to the normal force between two surfaces.,Surface traction: The grip between a vehicle's tires and the road surface.,Surface traction,The grip between a vehicle's tires and the road surface.,"Fluid lubrication: Liquids reduce friction between solid surfaces, causing them to slide easily.",Fluid lubrication,"Liquids reduce friction between solid surfaces, causing them to slide easily."
+8-383,"{
+  ""concepts"": [
+    {
+      ""name"": ""Material Lifecycle Analysis"",
+      ""description"": ""Evaluating the environmental impact of repurposing materials versus discarding them."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Upcycling Principles"",
+      ""description"": ""Transforming waste materials into new products of higher utility or value."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Resource Conservation"",
+      ""description"": ""Extending the useful life of items to reduce overall waste production."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Material Lifecycle Analysis: Evaluating the environmental impact of repurposing materials versus discarding them.,Material Lifecycle Analysis,Evaluating the environmental impact of repurposing materials versus discarding them.,Upcycling Principles: Transforming waste materials into new products of higher utility or value.,Upcycling Principles,Transforming waste materials into new products of higher utility or value.,Resource Conservation: Extending the useful life of items to reduce overall waste production.,Resource Conservation,Extending the useful life of items to reduce overall waste production.
+12-602,"{
+  ""concepts"": [
+    {
+      ""name"": ""Dielectric material properties"",
+      ""description"": ""Materials that resist electric current flow due to bound electrons."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Electrical conductivity"",
+      ""description"": ""The measure of a material's ability to conduct an electric current."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Material classification"",
+      ""description"": ""Categorizing substances based on their physical and chemical characteristics."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Dielectric material properties: Materials that resist electric current flow due to bound electrons.,Dielectric material properties,Materials that resist electric current flow due to bound electrons.,Electrical conductivity: The measure of a material's ability to conduct an electric current.,Electrical conductivity,The measure of a material's ability to conduct an electric current.,Material classification: Categorizing substances based on their physical and chemical characteristics.,Material classification,Categorizing substances based on their physical and chemical characteristics.
+13-547,"{
+  ""concepts"": [
+    {
+      ""name"": ""Evolutionary Adaptation"",
+      ""description"": ""Organisms evolve traits to blend into their specific environmental niches."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Visual Perception"",
+      ""description"": ""Contrast and pattern recognition determine how objects are detected by predators."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Camouflage Principles"",
+      ""description"": ""Matching colors and patterns to surroundings reduces visibility to others."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Evolutionary Adaptation: Organisms evolve traits to blend into their specific environmental niches.,Evolutionary Adaptation,Organisms evolve traits to blend into their specific environmental niches.,Visual Perception: Contrast and pattern recognition determine how objects are detected by predators.,Visual Perception,Contrast and pattern recognition determine how objects are detected by predators.,Camouflage Principles: Matching colors and patterns to surroundings reduces visibility to others.,Camouflage Principles,Matching colors and patterns to surroundings reduces visibility to others.
+10-356,"{
+  ""concepts"": [
+    {
+      ""name"": ""Ecological Niche Adaptation"",
+      ""description"": ""Organisms evolve traits to survive within specific environmental conditions."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Habitat Suitability"",
+      ""description"": ""Environments provide necessary resources for protection and survival."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Camouflage Principles"",
+      ""description"": ""Blending into surroundings helps animals avoid detection by predators."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Ecological Niche Adaptation: Organisms evolve traits to survive within specific environmental conditions.,Ecological Niche Adaptation,Organisms evolve traits to survive within specific environmental conditions.,Habitat Suitability: Environments provide necessary resources for protection and survival.,Habitat Suitability,Environments provide necessary resources for protection and survival.,Camouflage Principles: Blending into surroundings helps animals avoid detection by predators.,Camouflage Principles,Blending into surroundings helps animals avoid detection by predators.
+8-178,"{
+  ""concepts"": [
+    {
+      ""name"": ""Rotational Reference Frames"",
+      ""description"": ""Objects rotate relative to fixed points in space over specific time intervals."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Planetary Rotation"",
+      ""description"": ""Earth completes one full axial rotation in approximately twenty-four hours."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Units of Time"",
+      ""description"": ""Time is measured in standardized units like days, weeks, and hours."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Rotational Reference Frames: Objects rotate relative to fixed points in space over specific time intervals.,Rotational Reference Frames,Objects rotate relative to fixed points in space over specific time intervals.,Planetary Rotation: Earth completes one full axial rotation in approximately twenty-four hours.,Planetary Rotation,Earth completes one full axial rotation in approximately twenty-four hours.,"Units of Time: Time is measured in standardized units like days, weeks, and hours.",Units of Time,"Time is measured in standardized units like days, weeks, and hours."
+14-1100,"{
+  ""concepts"": [
+    {
+      ""name"": ""Solute-Solvent Interactions"",
+      ""description"": ""Molecular forces determine if a substance dissolves within a specific medium."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Chemical Solubility"",
+      ""description"": ""The ability of a substance to form a homogeneous mixture with another."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""States of Matter"",
+      ""description"": ""Substances exist as solids, liquids, or gases with distinct physical properties."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Solute-Solvent Interactions: Molecular forces determine if a substance dissolves within a specific medium.,Solute-Solvent Interactions,Molecular forces determine if a substance dissolves within a specific medium.,Chemical Solubility: The ability of a substance to form a homogeneous mixture with another.,Chemical Solubility,The ability of a substance to form a homogeneous mixture with another.,"States of Matter: Substances exist as solids, liquids, or gases with distinct physical properties.",States of Matter,"Substances exist as solids, liquids, or gases with distinct physical properties."
+7-890,"{
+  ""concepts"": [
+    {
+      ""name"": ""Ecological Niche"",
+      ""description"": ""The specific role and environment required for a species to survive."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Habitat Adaptation"",
+      ""description"": ""Organisms evolve traits to thrive in diverse environmental conditions."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Biological Habitat"",
+      ""description"": ""The natural home or environment where an organism lives."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Ecological Niche: The specific role and environment required for a species to survive.,Ecological Niche,The specific role and environment required for a species to survive.,Habitat Adaptation: Organisms evolve traits to thrive in diverse environmental conditions.,Habitat Adaptation,Organisms evolve traits to thrive in diverse environmental conditions.,Biological Habitat: The natural home or environment where an organism lives.,Biological Habitat,The natural home or environment where an organism lives.
+11-440,"{
+  ""concepts"": [
+    {
+      ""name"": ""Genetic Inheritance"",
+      ""description"": ""Biological traits are transmitted via DNA from parents to offspring."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Phenotypic Expression"",
+      ""description"": ""Observable physical characteristics result from the interaction of genes and environment."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Biological Heredity"",
+      ""description"": ""Living organisms pass specific physical features to the next generation."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Genetic Inheritance: Biological traits are transmitted via DNA from parents to offspring.,Genetic Inheritance,Biological traits are transmitted via DNA from parents to offspring.,Phenotypic Expression: Observable physical characteristics result from the interaction of genes and environment.,Phenotypic Expression,Observable physical characteristics result from the interaction of genes and environment.,Biological Heredity: Living organisms pass specific physical features to the next generation.,Biological Heredity,Living organisms pass specific physical features to the next generation.
+12-1059,"{
+  ""concepts"": [
+    {
+      ""name"": ""Atmospheric Pressure Gradients"",
+      ""description"": ""Pressure differences drive air movement from high to low pressure regions."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Fluid Dynamics"",
+      ""description"": ""The study of how gases and liquids move under various forces."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Wind Velocity"",
+      ""description"": ""A measure of the speed and direction of moving air."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Atmospheric Pressure Gradients: Pressure differences drive air movement from high to low pressure regions.,Atmospheric Pressure Gradients,Pressure differences drive air movement from high to low pressure regions.,Fluid Dynamics: The study of how gases and liquids move under various forces.,Fluid Dynamics,The study of how gases and liquids move under various forces.,Wind Velocity: A measure of the speed and direction of moving air.,Wind Velocity,A measure of the speed and direction of moving air.
+9-81,"{
+  ""concepts"": [
+    {
+      ""name"": ""Electromagnetic radiation"",
+      ""description"": ""Energy emitted as waves, including visible light and infrared heat."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Energy transformation"",
+      ""description"": ""The process of changing electrical energy into other forms like light."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Electrical circuits"",
+      ""description"": ""A path allowing electricity to power devices and produce output."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}","Electromagnetic radiation: Energy emitted as waves, including visible light and infrared heat.",Electromagnetic radiation,"Energy emitted as waves, including visible light and infrared heat.",Energy transformation: The process of changing electrical energy into other forms like light.,Energy transformation,The process of changing electrical energy into other forms like light.,Electrical circuits: A path allowing electricity to power devices and produce output.,Electrical circuits,A path allowing electricity to power devices and produce output.
+14-350,"{
+  ""concepts"": [
+    {
+      ""name"": ""Thermodynamic Equilibrium"",
+      ""description"": ""Systems naturally exchange energy until reaching a uniform state with surroundings."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Thermal Energy Transfer"",
+      ""description"": ""Heat moves from higher temperature objects to lower temperature objects."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Biological Thermal Sensitivity"",
+      ""description"": ""Living tissues sustain damage when exposed to extreme thermal energy levels."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Thermodynamic Equilibrium: Systems naturally exchange energy until reaching a uniform state with surroundings.,Thermodynamic Equilibrium,Systems naturally exchange energy until reaching a uniform state with surroundings.,Thermal Energy Transfer: Heat moves from higher temperature objects to lower temperature objects.,Thermal Energy Transfer,Heat moves from higher temperature objects to lower temperature objects.,Biological Thermal Sensitivity: Living tissues sustain damage when exposed to extreme thermal energy levels.,Biological Thermal Sensitivity,Living tissues sustain damage when exposed to extreme thermal energy levels.
+14-644,"{
+  ""concepts"": [
+    {
+      ""name"": ""Ecological degradation"",
+      ""description"": ""Human waste accumulation disrupts natural nutrient cycling and local biodiversity."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Environmental pollution"",
+      ""description"": ""Contaminants introduced into ecosystems negatively impact biological health and stability."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Waste management"",
+      ""description"": ""Proper disposal prevents the buildup of harmful materials in the environment."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Ecological degradation: Human waste accumulation disrupts natural nutrient cycling and local biodiversity.,Ecological degradation,Human waste accumulation disrupts natural nutrient cycling and local biodiversity.,Environmental pollution: Contaminants introduced into ecosystems negatively impact biological health and stability.,Environmental pollution,Contaminants introduced into ecosystems negatively impact biological health and stability.,Waste management: Proper disposal prevents the buildup of harmful materials in the environment.,Waste management,Proper disposal prevents the buildup of harmful materials in the environment.
+12-379,"{
+  ""concepts"": [
+    {
+      ""name"": ""Nitrogen fixation"",
+      ""description"": ""Legumes convert atmospheric nitrogen into soil-enriching nutrients."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Crop rotation"",
+      ""description"": ""Alternating plant species maintains soil fertility and prevents nutrient depletion."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Soil health"",
+      ""description"": ""Plants require specific nutrients from soil to grow effectively."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Nitrogen fixation: Legumes convert atmospheric nitrogen into soil-enriching nutrients.,Nitrogen fixation,Legumes convert atmospheric nitrogen into soil-enriching nutrients.,Crop rotation: Alternating plant species maintains soil fertility and prevents nutrient depletion.,Crop rotation,Alternating plant species maintains soil fertility and prevents nutrient depletion.,Soil health: Plants require specific nutrients from soil to grow effectively.,Soil health,Plants require specific nutrients from soil to grow effectively.
+10-1153,"{
+  ""concepts"": [
+    {
+      ""name"": ""Biological individuality"",
+      ""description"": ""Organisms function as distinct, autonomous units of life."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Cellular organization"",
+      ""description"": ""Life can exist as single-celled independent entities."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Microscopic life"",
+      ""description"": ""Tiny organisms exist that are not visible to the naked eye."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}","Biological individuality: Organisms function as distinct, autonomous units of life.",Biological individuality,"Organisms function as distinct, autonomous units of life.",Cellular organization: Life can exist as single-celled independent entities.,Cellular organization,Life can exist as single-celled independent entities.,Microscopic life: Tiny organisms exist that are not visible to the naked eye.,Microscopic life,Tiny organisms exist that are not visible to the naked eye.
+10-1205,"{
+  ""concepts"": [
+    {
+      ""name"": ""Classical Mechanics"",
+      ""description"": ""Objects follow predictable trajectories governed by gravitational forces."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Gravitational Acceleration"",
+      ""description"": ""Gravity exerts a constant downward force on unsupported objects."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Object Permanence"",
+      ""description"": ""Physical items exist independently of human interaction or control."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Classical Mechanics: Objects follow predictable trajectories governed by gravitational forces.,Classical Mechanics,Objects follow predictable trajectories governed by gravitational forces.,Gravitational Acceleration: Gravity exerts a constant downward force on unsupported objects.,Gravitational Acceleration,Gravity exerts a constant downward force on unsupported objects.,Object Permanence: Physical items exist independently of human interaction or control.,Object Permanence,Physical items exist independently of human interaction or control.
+12-1127,"{
+  ""concepts"": [
+    {
+      ""name"": ""Electromagnetic radiation absorption"",
+      ""description"": ""Materials absorb and convert light energy into thermal energy."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Specular reflection"",
+      ""description"": ""Shiny surfaces redirect light rays to focus energy on a target."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Thermal energy"",
+      ""description"": ""Heat is required to increase the temperature of food."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Electromagnetic radiation absorption: Materials absorb and convert light energy into thermal energy.,Electromagnetic radiation absorption,Materials absorb and convert light energy into thermal energy.,Specular reflection: Shiny surfaces redirect light rays to focus energy on a target.,Specular reflection,Shiny surfaces redirect light rays to focus energy on a target.,Thermal energy: Heat is required to increase the temperature of food.,Thermal energy,Heat is required to increase the temperature of food.
+7-1082,"{
+  ""concepts"": [
+    {
+      ""name"": ""Evolutionary fitness"",
+      ""description"": ""Organisms adapt behaviors to maximize their probability of long-term survival."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Resource scarcity"",
+      ""description"": ""Limited food availability during winter necessitates strategic energy storage."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Biological homeostasis"",
+      ""description"": ""Living things require consistent energy intake to maintain vital functions."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Evolutionary fitness: Organisms adapt behaviors to maximize their probability of long-term survival.,Evolutionary fitness,Organisms adapt behaviors to maximize their probability of long-term survival.,Resource scarcity: Limited food availability during winter necessitates strategic energy storage.,Resource scarcity,Limited food availability during winter necessitates strategic energy storage.,Biological homeostasis: Living things require consistent energy intake to maintain vital functions.,Biological homeostasis,Living things require consistent energy intake to maintain vital functions.
+183,"{
+  ""concepts"": [
+    {
+      ""name"": ""Ecological Niche Partitioning"",
+      ""description"": ""Species occupy distinct roles to minimize direct competition for limited resources."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Interspecific Competition"",
+      ""description"": ""Different species struggle for the same resources within a shared environment."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Habitat Requirements"",
+      ""description"": ""Animals need specific environments and food sources to survive and thrive."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Ecological Niche Partitioning: Species occupy distinct roles to minimize direct competition for limited resources.,Ecological Niche Partitioning,Species occupy distinct roles to minimize direct competition for limited resources.,Interspecific Competition: Different species struggle for the same resources within a shared environment.,Interspecific Competition,Different species struggle for the same resources within a shared environment.,Habitat Requirements: Animals need specific environments and food sources to survive and thrive.,Habitat Requirements,Animals need specific environments and food sources to survive and thrive.
+1102,"{
+  ""concepts"": [
+    {
+      ""name"": ""Resource Sustainability"",
+      ""description"": ""Managing finite natural resources to ensure availability for future generations."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Non-renewable Resources"",
+      ""description"": ""Natural substances that cannot be replaced once consumed or depleted."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Resource Conservation"",
+      ""description"": ""The practice of protecting and preserving natural environments and resources."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Resource Sustainability: Managing finite natural resources to ensure availability for future generations.,Resource Sustainability,Managing finite natural resources to ensure availability for future generations.,Non-renewable Resources: Natural substances that cannot be replaced once consumed or depleted.,Non-renewable Resources,Natural substances that cannot be replaced once consumed or depleted.,Resource Conservation: The practice of protecting and preserving natural environments and resources.,Resource Conservation,The practice of protecting and preserving natural environments and resources.
+9-13,"{
+  ""concepts"": [
+    {
+      ""name"": ""Molecular Kinetic Theory"",
+      ""description"": ""Collisions transfer mechanical energy into internal vibrational energy of molecules."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Energy Transformation"",
+      ""description"": ""Kinetic energy converts into other forms like heat or sound upon impact."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Mechanical Impact"",
+      ""description"": ""Physical contact between objects exerts forces that cause rapid displacement."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Molecular Kinetic Theory: Collisions transfer mechanical energy into internal vibrational energy of molecules.,Molecular Kinetic Theory,Collisions transfer mechanical energy into internal vibrational energy of molecules.,Energy Transformation: Kinetic energy converts into other forms like heat or sound upon impact.,Energy Transformation,Kinetic energy converts into other forms like heat or sound upon impact.,Mechanical Impact: Physical contact between objects exerts forces that cause rapid displacement.,Mechanical Impact,Physical contact between objects exerts forces that cause rapid displacement.
+753,"{
+  ""concepts"": [
+    {
+      ""name"": ""Evolutionary Biology"",
+      ""description"": ""Traits persist because they increase an organism's reproductive success."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Seed Dispersal"",
+      ""description"": ""Plants use external agents to transport seeds to new locations."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Biological Function"",
+      ""description"": ""Living structures serve specific purposes to support an organism's life cycle."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Evolutionary Biology: Traits persist because they increase an organism's reproductive success.,Evolutionary Biology,Traits persist because they increase an organism's reproductive success.,Seed Dispersal: Plants use external agents to transport seeds to new locations.,Seed Dispersal,Plants use external agents to transport seeds to new locations.,Biological Function: Living structures serve specific purposes to support an organism's life cycle.,Biological Function,Living structures serve specific purposes to support an organism's life cycle.
+8-474,"{
+  ""concepts"": [
+    {
+      ""name"": ""Vector orientation"",
+      ""description"": ""Relating physical movement directions to a fixed coordinate system."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Cardinal directions"",
+      ""description"": ""Understanding the spatial relationship between north, south, east, and west."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Compass navigation"",
+      ""description"": ""Using a magnetic needle to identify the current heading."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Vector orientation: Relating physical movement directions to a fixed coordinate system.,Vector orientation,Relating physical movement directions to a fixed coordinate system.,"Cardinal directions: Understanding the spatial relationship between north, south, east, and west.",Cardinal directions,"Understanding the spatial relationship between north, south, east, and west.",Compass navigation: Using a magnetic needle to identify the current heading.,Compass navigation,Using a magnetic needle to identify the current heading.
+12-859,"{
+  ""concepts"": [
+    {
+      ""name"": ""Thermal energy hazards"",
+      ""description"": ""High-temperature environments transfer sufficient energy to damage biological tissue."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Industrial heat sources"",
+      ""description"": ""Kilns generate intense heat for processing materials like ceramics or glass."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Definition of burns"",
+      ""description"": ""Burns are injuries caused by contact with excessive heat or fire."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Thermal energy hazards: High-temperature environments transfer sufficient energy to damage biological tissue.,Thermal energy hazards,High-temperature environments transfer sufficient energy to damage biological tissue.,Industrial heat sources: Kilns generate intense heat for processing materials like ceramics or glass.,Industrial heat sources,Kilns generate intense heat for processing materials like ceramics or glass.,Definition of burns: Burns are injuries caused by contact with excessive heat or fire.,Definition of burns,Burns are injuries caused by contact with excessive heat or fire.
+9-1131,"{
+  ""concepts"": [
+    {
+      ""name"": ""Mechanical wave propagation"",
+      ""description"": ""Waves require a physical medium to transport energy through space."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Molecular kinetic theory"",
+      ""description"": ""Particles collide to transmit vibrations through a gaseous medium."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""States of matter"",
+      ""description"": ""Air is a gas composed of particles that occupy space."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Mechanical wave propagation: Waves require a physical medium to transport energy through space.,Mechanical wave propagation,Waves require a physical medium to transport energy through space.,Molecular kinetic theory: Particles collide to transmit vibrations through a gaseous medium.,Molecular kinetic theory,Particles collide to transmit vibrations through a gaseous medium.,States of matter: Air is a gas composed of particles that occupy space.,States of matter,Air is a gas composed of particles that occupy space.
+10-366,"{
+  ""concepts"": [
+    {
+      ""name"": ""Orbital Mechanics"",
+      ""description"": ""Celestial bodies follow predictable paths governed by gravitational interactions."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Lunar Synodic Period"",
+      ""description"": ""The moon completes a full cycle of phases relative to the sun."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Earth Rotation"",
+      ""description"": ""Earth's daily spin causes celestial objects to appear to rise and set."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Orbital Mechanics: Celestial bodies follow predictable paths governed by gravitational interactions.,Orbital Mechanics,Celestial bodies follow predictable paths governed by gravitational interactions.,Lunar Synodic Period: The moon completes a full cycle of phases relative to the sun.,Lunar Synodic Period,The moon completes a full cycle of phases relative to the sun.,Earth Rotation: Earth's daily spin causes celestial objects to appear to rise and set.,Earth Rotation,Earth's daily spin causes celestial objects to appear to rise and set.
+7-145,"{
+  ""concepts"": [
+    {
+      ""name"": ""Neuromuscular Control Systems"",
+      ""description"": ""Complex integration of sensory input and motor output for maintaining bodily equilibrium."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Friction and Traction"",
+      ""description"": ""Surface interactions determine the resistance to slipping during physical movement."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Environmental Hazard Assessment"",
+      ""description"": ""Identifying physical surroundings that increase the risk of accidental injury."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Neuromuscular Control Systems: Complex integration of sensory input and motor output for maintaining bodily equilibrium.,Neuromuscular Control Systems,Complex integration of sensory input and motor output for maintaining bodily equilibrium.,Friction and Traction: Surface interactions determine the resistance to slipping during physical movement.,Friction and Traction,Surface interactions determine the resistance to slipping during physical movement.,Environmental Hazard Assessment: Identifying physical surroundings that increase the risk of accidental injury.,Environmental Hazard Assessment,Identifying physical surroundings that increase the risk of accidental injury.
+11-151,"{
+  ""concepts"": [
+    {
+      ""name"": ""Trophic dynamics"",
+      ""description"": ""Energy flows through ecosystems via complex food web interactions."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Ecological niche"",
+      ""description"": ""The specific role and position an organism occupies within its environment."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Predation definition"",
+      ""description"": ""Biological interaction where one organism kills and consumes another."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Trophic dynamics: Energy flows through ecosystems via complex food web interactions.,Trophic dynamics,Energy flows through ecosystems via complex food web interactions.,Ecological niche: The specific role and position an organism occupies within its environment.,Ecological niche,The specific role and position an organism occupies within its environment.,Predation definition: Biological interaction where one organism kills and consumes another.,Predation definition,Biological interaction where one organism kills and consumes another.
+11-75,"{
+  ""concepts"": [
+    {
+      ""name"": ""Hydrological cycle"",
+      ""description"": ""Water circulates continuously through the atmosphere, land, and oceans."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Precipitation accumulation"",
+      ""description"": ""Rainfall increases the volume of available surface and groundwater."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Resource availability"",
+      ""description"": ""Abundant environmental inputs increase the local supply of a resource."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}","Hydrological cycle: Water circulates continuously through the atmosphere, land, and oceans.",Hydrological cycle,"Water circulates continuously through the atmosphere, land, and oceans.",Precipitation accumulation: Rainfall increases the volume of available surface and groundwater.,Precipitation accumulation,Rainfall increases the volume of available surface and groundwater.,Resource availability: Abundant environmental inputs increase the local supply of a resource.,Resource availability,Abundant environmental inputs increase the local supply of a resource.
+9-1107,"{
+  ""concepts"": [
+    {
+      ""name"": ""Atmospheric fluid dynamics"",
+      ""description"": ""Air currents transport suspended particles across varying geographic distances."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Biological dispersal mechanisms"",
+      ""description"": ""Organisms utilize environmental forces to spread offspring to new locations."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Wind energy"",
+      ""description"": ""Moving air exerts force capable of displacing lightweight physical objects."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Atmospheric fluid dynamics: Air currents transport suspended particles across varying geographic distances.,Atmospheric fluid dynamics,Air currents transport suspended particles across varying geographic distances.,Biological dispersal mechanisms: Organisms utilize environmental forces to spread offspring to new locations.,Biological dispersal mechanisms,Organisms utilize environmental forces to spread offspring to new locations.,Wind energy: Moving air exerts force capable of displacing lightweight physical objects.,Wind energy,Moving air exerts force capable of displacing lightweight physical objects.
+12-1177,"{
+  ""concepts"": [
+    {
+      ""name"": ""Cellular Respiration"",
+      ""description"": ""Cells convert glucose and oxygen into energy, releasing heat and byproducts."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Metabolic Processes"",
+      ""description"": ""Biological reactions sustain life by transforming nutrients into energy and waste."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Energy Expenditure"",
+      ""description"": ""Physical activity requires energy, which generates heat as a byproduct."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}","Cellular Respiration: Cells convert glucose and oxygen into energy, releasing heat and byproducts.",Cellular Respiration,"Cells convert glucose and oxygen into energy, releasing heat and byproducts.",Metabolic Processes: Biological reactions sustain life by transforming nutrients into energy and waste.,Metabolic Processes,Biological reactions sustain life by transforming nutrients into energy and waste.,"Energy Expenditure: Physical activity requires energy, which generates heat as a byproduct.",Energy Expenditure,"Physical activity requires energy, which generates heat as a byproduct."
+12-345,"{
+  ""concepts"": [
+    {
+      ""name"": ""Evolutionary Adaptation"",
+      ""description"": ""Organisms develop traits that increase survival in specific environmental niches."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Ecological Niche"",
+      ""description"": ""The specific role and habitat requirements of a species within an ecosystem."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Biological Morphology"",
+      ""description"": ""The physical form and structural features of living organisms."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Evolutionary Adaptation: Organisms develop traits that increase survival in specific environmental niches.,Evolutionary Adaptation,Organisms develop traits that increase survival in specific environmental niches.,Ecological Niche: The specific role and habitat requirements of a species within an ecosystem.,Ecological Niche,The specific role and habitat requirements of a species within an ecosystem.,Biological Morphology: The physical form and structural features of living organisms.,Biological Morphology,The physical form and structural features of living organisms.
+14-997,"{
+  ""concepts"": [
+    {
+      ""name"": ""Biological Mutualism"",
+      ""description"": ""Interdependent species interactions that enhance survival and reproductive success for both parties."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Angiosperm Reproduction"",
+      ""description"": ""Flowering plants rely on external agents to facilitate cross-pollination and seed production."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Pollination Basics"",
+      ""description"": ""Pollinators transfer pollen between flowers to enable plant fertilization."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Biological Mutualism: Interdependent species interactions that enhance survival and reproductive success for both parties.,Biological Mutualism,Interdependent species interactions that enhance survival and reproductive success for both parties.,Angiosperm Reproduction: Flowering plants rely on external agents to facilitate cross-pollination and seed production.,Angiosperm Reproduction,Flowering plants rely on external agents to facilitate cross-pollination and seed production.,Pollination Basics: Pollinators transfer pollen between flowers to enable plant fertilization.,Pollination Basics,Pollinators transfer pollen between flowers to enable plant fertilization.
+196,"{
+  ""concepts"": [
+    {
+      ""name"": ""Trophic niche specialization"",
+      ""description"": ""Organisms occupy specific roles based on their primary dietary sources."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Biological classification"",
+      ""description"": ""Taxonomic groups share common physiological traits and dietary behaviors."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Dietary categorization"",
+      ""description"": ""Living things are grouped by the types of food they consume."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Trophic niche specialization: Organisms occupy specific roles based on their primary dietary sources.,Trophic niche specialization,Organisms occupy specific roles based on their primary dietary sources.,Biological classification: Taxonomic groups share common physiological traits and dietary behaviors.,Biological classification,Taxonomic groups share common physiological traits and dietary behaviors.,Dietary categorization: Living things are grouped by the types of food they consume.,Dietary categorization,Living things are grouped by the types of food they consume.
+7-245,"{
+  ""concepts"": [
+    {
+      ""name"": ""Conservation of Mass"",
+      ""description"": ""Matter is neither created nor destroyed during physical changes."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Physical Properties"",
+      ""description"": ""Observable characteristics like shape and mass define an object's state."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Physical Change"",
+      ""description"": ""Altering an object's form does not change its fundamental substance."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Conservation of Mass: Matter is neither created nor destroyed during physical changes.,Conservation of Mass,Matter is neither created nor destroyed during physical changes.,Physical Properties: Observable characteristics like shape and mass define an object's state.,Physical Properties,Observable characteristics like shape and mass define an object's state.,Physical Change: Altering an object's form does not change its fundamental substance.,Physical Change,Altering an object's form does not change its fundamental substance.
+10-599,"{
+  ""concepts"": [
+    {
+      ""name"": ""Trophic level dynamics"",
+      ""description"": ""Energy transfer efficiency limits predator and prey population sizes."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Ecological niche"",
+      ""description"": ""Species occupy specific roles based on physical traits and environmental needs."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Biological classification"",
+      ""description"": ""Organisms are grouped by shared physical characteristics and evolutionary traits."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Trophic level dynamics: Energy transfer efficiency limits predator and prey population sizes.,Trophic level dynamics,Energy transfer efficiency limits predator and prey population sizes.,Ecological niche: Species occupy specific roles based on physical traits and environmental needs.,Ecological niche,Species occupy specific roles based on physical traits and environmental needs.,Biological classification: Organisms are grouped by shared physical characteristics and evolutionary traits.,Biological classification,Organisms are grouped by shared physical characteristics and evolutionary traits.
+14-1028,"{
+  ""concepts"": [
+    {
+      ""name"": ""Cellular Autonomy"",
+      ""description"": ""Single-celled organisms perform all life functions within one cell."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Biological Homeostasis"",
+      ""description"": ""Organisms must regulate internal processes to maintain survival."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Basic Life Functions"",
+      ""description"": ""Living things require energy, growth, and reproduction to exist."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Cellular Autonomy: Single-celled organisms perform all life functions within one cell.,Cellular Autonomy,Single-celled organisms perform all life functions within one cell.,Biological Homeostasis: Organisms must regulate internal processes to maintain survival.,Biological Homeostasis,Organisms must regulate internal processes to maintain survival.,"Basic Life Functions: Living things require energy, growth, and reproduction to exist.",Basic Life Functions,"Living things require energy, growth, and reproduction to exist."
+12-830,"{
+  ""concepts"": [
+    {
+      ""name"": ""Biological Entropy"",
+      ""description"": ""Biological systems follow a unidirectional, irreversible progression of developmental aging."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Linear Time"",
+      ""description"": ""Events occur in a sequential, non-reversible order within a temporal framework."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Human Development"",
+      ""description"": ""Humans grow and mature through predictable, age-based life stages."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}","Biological Entropy: Biological systems follow a unidirectional, irreversible progression of developmental aging.",Biological Entropy,"Biological systems follow a unidirectional, irreversible progression of developmental aging.","Linear Time: Events occur in a sequential, non-reversible order within a temporal framework.",Linear Time,"Events occur in a sequential, non-reversible order within a temporal framework.","Human Development: Humans grow and mature through predictable, age-based life stages.",Human Development,"Humans grow and mature through predictable, age-based life stages."
+1875,"{
+  ""concepts"": [
+    {
+      ""name"": ""Biological Species Concept"",
+      ""description"": ""Organisms that interbreed to produce fertile offspring belong to the same species."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Genetic Inheritance"",
+      ""description"": ""Offspring inherit genetic traits and physical characteristics from their biological parents."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Reproductive Biology"",
+      ""description"": ""Living organisms reproduce to create offspring of their own kind."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Biological Species Concept: Organisms that interbreed to produce fertile offspring belong to the same species.,Biological Species Concept,Organisms that interbreed to produce fertile offspring belong to the same species.,Genetic Inheritance: Offspring inherit genetic traits and physical characteristics from their biological parents.,Genetic Inheritance,Offspring inherit genetic traits and physical characteristics from their biological parents.,Reproductive Biology: Living organisms reproduce to create offspring of their own kind.,Reproductive Biology,Living organisms reproduce to create offspring of their own kind.
+13-767,"{
+  ""concepts"": [
+    {
+      ""name"": ""Biological developmental pathways"",
+      ""description"": ""Organisms undergo distinct physiological transformations throughout their life cycles."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Metabolic life cycles"",
+      ""description"": ""Species progress through specific growth stages to reach maturity."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Biological growth"",
+      ""description"": ""Living things change size and form as they develop over time."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Biological developmental pathways: Organisms undergo distinct physiological transformations throughout their life cycles.,Biological developmental pathways,Organisms undergo distinct physiological transformations throughout their life cycles.,Metabolic life cycles: Species progress through specific growth stages to reach maturity.,Metabolic life cycles,Species progress through specific growth stages to reach maturity.,Biological growth: Living things change size and form as they develop over time.,Biological growth,Living things change size and form as they develop over time.
+12-1001,"{
+  ""concepts"": [
+    {
+      ""name"": ""Atmospheric moisture dynamics"",
+      ""description"": ""Low humidity levels significantly reduce heat retention and precipitation in a region."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Climatic classification systems"",
+      ""description"": ""Regions are categorized by long-term patterns of temperature and annual precipitation."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Arid environment characteristics"",
+      ""description"": ""Deserts are defined by extremely low levels of annual rainfall."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Atmospheric moisture dynamics: Low humidity levels significantly reduce heat retention and precipitation in a region.,Atmospheric moisture dynamics,Low humidity levels significantly reduce heat retention and precipitation in a region.,Climatic classification systems: Regions are categorized by long-term patterns of temperature and annual precipitation.,Climatic classification systems,Regions are categorized by long-term patterns of temperature and annual precipitation.,Arid environment characteristics: Deserts are defined by extremely low levels of annual rainfall.,Arid environment characteristics,Deserts are defined by extremely low levels of annual rainfall.
+13-231,"{
+  ""concepts"": [
+    {
+      ""name"": ""Biofuel chemical conversion"",
+      ""description"": ""Organic matter is processed into combustible energy sources for engines."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Renewable energy sources"",
+      ""description"": ""Energy derived from natural resources that replenish over short periods."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Alternative fuel definition"",
+      ""description"": ""Fuels other than conventional petroleum used to power vehicles."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Biofuel chemical conversion: Organic matter is processed into combustible energy sources for engines.,Biofuel chemical conversion,Organic matter is processed into combustible energy sources for engines.,Renewable energy sources: Energy derived from natural resources that replenish over short periods.,Renewable energy sources,Energy derived from natural resources that replenish over short periods.,Alternative fuel definition: Fuels other than conventional petroleum used to power vehicles.,Alternative fuel definition,Fuels other than conventional petroleum used to power vehicles.
+13-386,"{
+  ""concepts"": [
+    {
+      ""name"": ""Ecological Niche Requirements"",
+      ""description"": ""Organisms require specific environmental conditions to survive and reproduce."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Biological Limiting Factors"",
+      ""description"": ""Environmental variables determine the geographic distribution and survival of species."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Habitat Suitability"",
+      ""description"": ""Environments must provide necessary resources for an organism to live."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Ecological Niche Requirements: Organisms require specific environmental conditions to survive and reproduce.,Ecological Niche Requirements,Organisms require specific environmental conditions to survive and reproduce.,Biological Limiting Factors: Environmental variables determine the geographic distribution and survival of species.,Biological Limiting Factors,Environmental variables determine the geographic distribution and survival of species.,Habitat Suitability: Environments must provide necessary resources for an organism to live.,Habitat Suitability,Environments must provide necessary resources for an organism to live.
+14-734,"{
+  ""concepts"": [
+    {
+      ""name"": ""Electromagnetic radiation absorption"",
+      ""description"": ""Matter converts incident light energy into internal thermal energy."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Thermodynamic energy transfer"",
+      ""description"": ""Energy transfer increases the kinetic energy of particles within a substance."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Thermal energy"",
+      ""description"": ""Higher internal energy corresponds to an increase in object temperature."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Electromagnetic radiation absorption: Matter converts incident light energy into internal thermal energy.,Electromagnetic radiation absorption,Matter converts incident light energy into internal thermal energy.,Thermodynamic energy transfer: Energy transfer increases the kinetic energy of particles within a substance.,Thermodynamic energy transfer,Energy transfer increases the kinetic energy of particles within a substance.,Thermal energy: Higher internal energy corresponds to an increase in object temperature.,Thermal energy,Higher internal energy corresponds to an increase in object temperature.
+12-851,"{
+  ""concepts"": [
+    {
+      ""name"": ""Autotrophic metabolic pathways"",
+      ""description"": ""Organisms synthesize organic compounds from inorganic sources using energy."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Photosynthesis process"",
+      ""description"": ""Plants convert light energy into chemical energy stored as glucose."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Biological nutrition"",
+      ""description"": ""Living organisms require energy sources to maintain life functions."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Autotrophic metabolic pathways: Organisms synthesize organic compounds from inorganic sources using energy.,Autotrophic metabolic pathways,Organisms synthesize organic compounds from inorganic sources using energy.,Photosynthesis process: Plants convert light energy into chemical energy stored as glucose.,Photosynthesis process,Plants convert light energy into chemical energy stored as glucose.,Biological nutrition: Living organisms require energy sources to maintain life functions.,Biological nutrition,Living organisms require energy sources to maintain life functions.
+867,"{
+  ""concepts"": [
+    {
+      ""name"": ""Atmospheric circulation patterns"",
+      ""description"": ""Global air currents and pressure systems dictate regional climate variations."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Solar insolation intensity"",
+      ""description"": ""Earth's axial tilt causes seasonal variations in direct solar energy received."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Latitudinal climate zones"",
+      ""description"": ""Regions near the equator remain warmer year-round than polar regions."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Atmospheric circulation patterns: Global air currents and pressure systems dictate regional climate variations.,Atmospheric circulation patterns,Global air currents and pressure systems dictate regional climate variations.,Solar insolation intensity: Earth's axial tilt causes seasonal variations in direct solar energy received.,Solar insolation intensity,Earth's axial tilt causes seasonal variations in direct solar energy received.,Latitudinal climate zones: Regions near the equator remain warmer year-round than polar regions.,Latitudinal climate zones,Regions near the equator remain warmer year-round than polar regions.
+14-441,"{
+  ""concepts"": [
+    {
+      ""name"": ""Dermal tissue repair"",
+      ""description"": ""Deep skin damage triggers collagen deposition and fibrous tissue formation."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Wound healing stages"",
+      ""description"": ""The body repairs injured tissue through inflammation, proliferation, and remodeling."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Physical trauma"",
+      ""description"": ""External force can cause structural damage to biological organisms."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Dermal tissue repair: Deep skin damage triggers collagen deposition and fibrous tissue formation.,Dermal tissue repair,Deep skin damage triggers collagen deposition and fibrous tissue formation.,"Wound healing stages: The body repairs injured tissue through inflammation, proliferation, and remodeling.",Wound healing stages,"The body repairs injured tissue through inflammation, proliferation, and remodeling.",Physical trauma: External force can cause structural damage to biological organisms.,Physical trauma,External force can cause structural damage to biological organisms.
+12-925,"{
+  ""concepts"": [
+    {
+      ""name"": ""Metabolic Homeostasis"",
+      ""description"": ""Biological systems maintain internal stability by regulating chemical concentrations."",
+      ""difficulty_rank"": 1
+    },
+    {
+      ""name"": ""Excretory System Function"",
+      ""description"": ""Organs filter waste products from circulating bodily fluids."",
+      ""difficulty_rank"": 2
+    },
+    {
+      ""name"": ""Filtration Processes"",
+      ""description"": ""Separating substances based on size or chemical properties."",
+      ""difficulty_rank"": 3
+    }
+  ]
+}",Metabolic Homeostasis: Biological systems maintain internal stability by regulating chemical concentrations.,Metabolic Homeostasis,Biological systems maintain internal stability by regulating chemical concentrations.,Excretory System Function: Organs filter waste products from circulating bodily fluids.,Excretory System Function,Organs filter waste products from circulating bodily fluids.,Filtration Processes: Separating substances based on size or chemical properties.,Filtration Processes,Separating substances based on size or chemical properties.

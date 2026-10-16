@@ -1,0 +1,25 @@
+question_id,k,expected_answer,justification,source
+12-725,1,C,"Even without advanced adaptation knowledge, frogs are commonly seen on land.",manual
+12-725,2,C,Everyday observation still separates a frog from clearly marine animals.,manual
+12-725,3,C,No plausible distractor is stronger than the familiar sight of frogs outside water.,manual
+7-889,1,B,General familiarity with Mars can remain without knowing mountain formation.,manual
+7-889,2,B,Popular knowledge still associates Mars with a rocky surface.,manual
+7-889,3,A,"Without geology or planet identification, a famous large planet is a plausible guess.",manual
+7-190,3,D,"A naive student is most likely to choose the option that reflects a common, everyday observation of consumer behavior and retail response without needing to understand complex market mechanisms.",llm-accepted
+7-190,1,D,"A naive student is most likely to choose the option involving human consumer behavior and manufacturing, as it directly mirrors the intuitive relationship between a population's needs and the resulting supply of goods.",llm-accepted
+7-190,2,D,"A naive student is most likely to choose the option that reflects a direct, observable correlation between a demographic need and the manufacturing of specific goods, as it mirrors the basic intuition of supply meeting demand without requiring formal economic theory.",llm-accepted
+13-949,1,D,A naive student will likely choose the option containing visibly distinct solid pieces that are physically large enough to be caught by the mesh of a sifter.,llm-accepted
+13-949,3,D,"A naive student would likely choose the bowl of cereal because they can visually identify distinct solid pieces that are large enough to be caught by the holes of a sifter, unlike the liquid-based options.",llm-accepted
+12-1059,1,D,"Without understanding pressure gradients, a student will rely on the common association between the word 'hurricane' and extreme wind speeds.",llm-accepted
+12-1059,2,D,"Even without understanding atmospheric physics, a naive student will associate the word 'tremendous' and the common knowledge of hurricane destruction with the highest intensity of wind.",llm-accepted
+12-1059,3,D,"Even without formal scientific knowledge, students associate the word 'tremendous' and the term 'hurricane' with extreme weather events characterized by high-speed winds.",llm-accepted
+13-949,2,D,"A naive student would likely choose the option containing visibly distinct solid pieces, as they associate the act of sifting with separating large solid items from smaller ones.",llm-accepted
+10-2,2,D,"Without understanding metabolic or homeostatic requirements, a student would likely rely on the common cultural knowledge that sleep is a fundamental component of a healthy lifestyle.",llm-accepted
+10-2,3,D,"Even without formal knowledge of physiology, most students recognize 'getting sleep' as a common-sense recommendation for health compared to the clearly detrimental options provided.",llm-accepted
+10-2,1,D,"Even without understanding homeostatic regulation, students possess the common-sense knowledge that sleep is a fundamental requirement for physical well-being.",llm-accepted
+11-244,1,A,"Without knowledge of photovoltaics, a student would likely select the option that linguistically mimics the function of 'absorbing' light to 'convert' it into energy.",llm-accepted
+11-244,3,A,"A naive student would likely associate the goal of 'powering objects' with a device that sounds like it captures and changes energy, even without understanding the underlying physics.",llm-accepted
+11-244,2,A,A naive student would likely associate the need to 'capture' or 'use' daylight with a device described as an 'absorbing converter' because the terminology mimics the functional goal of taking in energy.,llm-accepted
+11-202,1,D,"Without understanding biological homeostasis, a naive student is likely to associate the lack of water with the most extreme environment listed, assuming that being in space is the most lethal condition regardless of the specific mechanism of dehydration.",llm-accepted
+11-202,3,D,"A naive student would likely identify the moon as the most hostile environment lacking resources compared to the other options, which are commonly associated with the presence of water.",llm-accepted
+11-202,2,D,A naive student would likely identify the moon as the most hostile environment lacking basic life-sustaining resources compared to the other locations which contain abundant water.,llm-accepted
